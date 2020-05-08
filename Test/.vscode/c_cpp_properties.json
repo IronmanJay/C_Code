@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Software/MinGW-V5.1.6/lib/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5",
+                "D:/Software/MinGW-V5.1.6/lib/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/mingw32",
+                "D:/Software/MinGW-V5.1.6/lib/../lib/gcc/mingw32/3.4.5/../../../../include/c++/3.4.5/backward",
+                "D:/Software/MinGW-V5.1.6/lib/../lib/gcc/mingw32/3.4.5/../../../../include",
+                "D:/Software/MinGW-V5.1.6/lib/../lib/gcc/mingw32/3.4.5/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
