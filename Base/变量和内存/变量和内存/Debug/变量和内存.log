@@ -1,4 +1,2 @@
-﻿  内存处理函数.c
-d:\software\c code\变量和内存\变量和内存\内存处理函数.c(19): warning C4716: “main07”: 必须返回一个值
-d:\software\c code\变量和内存\变量和内存\内存处理函数.c(30): warning C4716: “main08”: 必须返回一个值
-  变量和内存.vcxproj -> D:\Software\C Code\变量和内存\Debug\变量和内存.exe
+﻿  静态变量.c
+  变量和内存.vcxproj -> D:\Software\C_Code\Base\变量和内存\Debug\变量和内存.exe
