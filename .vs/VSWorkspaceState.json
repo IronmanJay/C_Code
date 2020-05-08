@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LeetCode\\DynamicProgramming"
+    "\\Base",
+    "\\Base\\变量和内存",
+    "\\Base\\变量和内存\\变量和内存",
+    "\\Base\\多文件编程\\多文件编程"
   ],
+  "SelectedNode": "\\Base\\变量和内存\\变量和内存.sln",
   "PreviewInSolutionExplorer": false
 }
