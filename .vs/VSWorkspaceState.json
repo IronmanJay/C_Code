@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Base\\变量和内存\\变量和内存"
+    "\\DataStructure",
+    "\\DataStructure\\LinearTable",
+    "\\Test"
   ],
   "PreviewInSolutionExplorer": false
 }
