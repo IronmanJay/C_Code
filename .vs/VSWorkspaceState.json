@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataStructure",
     "\\DataStructure\\LinearTable",
-    "\\Test"
+    "\\DataStructure\\LinearTable\\LinearTable"
   ],
   "PreviewInSolutionExplorer": false
 }
