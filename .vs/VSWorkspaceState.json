@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LeetCode",
     "\\LeetCode\\BFS",
-    "\\LeetCode\\BFS\\BFS",
-    "\\LeetCode\\DynamicProgramming\\DynamicProgramming"
+    "\\LeetCode\\BFS\\BFS"
   ],
-  "SelectedNode": "\\LeetCode\\BFS\\BFS\\BFS.sln",
   "PreviewInSolutionExplorer": false
 }

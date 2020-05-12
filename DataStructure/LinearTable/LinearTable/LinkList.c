@@ -226,7 +226,7 @@ Status LinkClearList(LinkList *L)
 	return OK;
 }
 
-int main(void)
+int mainLinkList(void)
 {
 	LinkList L;
 	ElemType e;
