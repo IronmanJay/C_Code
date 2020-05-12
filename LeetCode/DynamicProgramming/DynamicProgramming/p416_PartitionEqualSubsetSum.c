@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-typedef int bool;
-
 /*×¢£º1Îªtrue£¬0Îªfalse*/
+typedef int bool;
 
 bool canPartition(int* nums, int numsSize) {
 	int i, j, target;

@@ -18,5 +18,8 @@
     <ClCompile Include="I32_PrintBinaryTreeFromTopToBottom.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p101_SymmetricTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

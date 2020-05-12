@@ -69,28 +69,8 @@ int** levelOrder(struct TreeNode* root, int* returnSize, int** returnColumnSizes
 	return retArr;
 }
 
-
+/*主函数*/
 int main(void)
 {
-	/*此处代码仅作示例*/
-	struct TreeNode* root;
-	root->val = 3;
-	struct TreeNode* left1;
-	left1->val = 9;
-	struct TreeNode* right1;
-	right1->val = 20;
-	struct TreeNode* right2;
-	right2->val = 15;
-	struct TreeNode* right3;
-	right3->val = 8;
-	root->left = left1;
-	root->right = right1;
-	right1->left = right2;
-	right1->right = right3;
-	int* returnSize = 0;
-	int** retrunCoumnSizes = 0;
-	int** res = levelOrder(root, returnSize, retrunCoumnSizes);
-	printf(res);
-	getchar();
-
+	/*主函数内容省略，上面的算法是核心*/
 }
