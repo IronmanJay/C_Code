@@ -21,5 +21,8 @@
     <ClCompile Include="p101_SymmetricTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p199_BinaryTreeRightSideView.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
