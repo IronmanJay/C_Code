@@ -118,6 +118,7 @@
     <ClCompile Include="I32_PrintBinaryTreeFromTopToBottom.c" />
     <ClCompile Include="p101_SymmetricTree.c" />
     <ClCompile Include="p199_BinaryTreeRightSideView.c" />
+    <ClCompile Include="p513_FindBottomLeftTreeValue.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

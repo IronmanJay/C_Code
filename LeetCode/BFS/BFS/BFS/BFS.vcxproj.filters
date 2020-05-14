@@ -24,5 +24,8 @@
     <ClCompile Include="p199_BinaryTreeRightSideView.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p513_FindBottomLeftTreeValue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
