@@ -111,7 +111,7 @@ Status StackTraverse(SqStack S)
 	return OK;
 }
 
-int mainStack()
+int mainStack(void)
 {
 	/*初始化参数*/
 	int j;

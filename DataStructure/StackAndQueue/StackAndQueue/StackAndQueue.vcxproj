@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{9CAB6F90-5455-4B19-A0BC-DA0AF09FF248}</ProjectGuid>
+    <ProjectGuid>{DC57FD1A-9632-4BD2-92ED-C04E68D4C703}</ProjectGuid>
     <RootNamespace>StackAndQueue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -115,6 +115,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DoubleStack.c" />
+    <ClCompile Include="LinkStack.c" />
     <ClCompile Include="Stack.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
