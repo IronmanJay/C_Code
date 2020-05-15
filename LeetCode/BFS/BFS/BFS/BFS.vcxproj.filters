@@ -27,5 +27,8 @@
     <ClCompile Include="p513_FindBottomLeftTreeValue.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p854_KSimilarStrings.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
