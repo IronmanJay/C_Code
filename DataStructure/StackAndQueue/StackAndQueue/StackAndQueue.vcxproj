@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DoubleStack.c" />
+    <ClCompile Include="Fibonacci.c" />
     <ClCompile Include="LinkStack.c" />
     <ClCompile Include="Stack.c" />
   </ItemGroup>
