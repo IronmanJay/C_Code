@@ -10,7 +10,7 @@ int Fbi(int i)
 	return Fbi(i - 1) + Fbi(i - 2); /*这里Fbi就是函数自己，它在调用自己*/
 }
 
-int main(void)
+int mainFib(void)
 {
 	/*非递归版本（迭代）*/
 	int i;

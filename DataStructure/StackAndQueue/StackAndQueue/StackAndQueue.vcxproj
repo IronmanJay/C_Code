@@ -117,7 +117,9 @@
   <ItemGroup>
     <ClCompile Include="DoubleStack.c" />
     <ClCompile Include="Fibonacci.c" />
+    <ClCompile Include="LinkQueue.c" />
     <ClCompile Include="LinkStack.c" />
+    <ClCompile Include="Queue.c" />
     <ClCompile Include="Stack.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
