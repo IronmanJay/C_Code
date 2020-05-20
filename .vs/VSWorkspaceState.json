@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataStructure",
+    "\\DataStructure\\StackAndQueue"
   ],
+  "SelectedNode": "\\DataStructure\\StackAndQueue\\StackAndQueue.sln",
   "PreviewInSolutionExplorer": false
 }
