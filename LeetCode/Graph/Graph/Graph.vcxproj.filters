@@ -24,5 +24,8 @@
     <ClCompile Include="p785_IsGraphBipartite.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p684_RedundantConnection.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

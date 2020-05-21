@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p1042_FlowerPlantingWithNoAdjacent.c" />
+    <ClCompile Include="p684_RedundantConnection.c" />
     <ClCompile Include="p785_IsGraphBipartite.c" />
     <ClCompile Include="p997_FindTheTownJudge.c" />
   </ItemGroup>
