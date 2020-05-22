@@ -276,7 +276,7 @@ void StrPrint(String T)
 	printf("\n");
 }
 
-int main(void)
+int mainString(void)
 {
 
 	/*初始化参数*/
