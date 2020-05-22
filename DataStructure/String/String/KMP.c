@@ -206,7 +206,7 @@ int Index_KMP1(String S, String T, int pos)
 	}
 }
 
-int main(void)
+int mainKMP(void)
 {
 
 	/*初始化参数*/
