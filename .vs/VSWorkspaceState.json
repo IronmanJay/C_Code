@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataStructure"
+    "\\DataStructure",
+    "\\DataStructure\\Tree"
   ],
-  "SelectedNode": "\\DataStructure",
+  "SelectedNode": "\\DataStructure\\Tree\\Tree.sln",
   "PreviewInSolutionExplorer": false
 }
