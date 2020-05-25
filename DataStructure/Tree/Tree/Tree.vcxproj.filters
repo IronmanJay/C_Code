@@ -18,5 +18,11 @@
     <ClCompile Include="BiTreeArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BiTreeLink.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadBinaryTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
