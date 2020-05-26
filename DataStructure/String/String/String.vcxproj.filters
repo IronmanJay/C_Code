@@ -21,5 +21,8 @@
     <ClCompile Include="KMP.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p521_LongestUncommonSubsequenceI.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
