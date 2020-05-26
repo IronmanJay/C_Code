@@ -161,6 +161,7 @@ Status LinkQueueTraverse(LinkQueue Q)
 	return OK;
 }
 
+/*链队列*/
 int mainLinkQueue(void)
 {
 	/*初始化参数*/

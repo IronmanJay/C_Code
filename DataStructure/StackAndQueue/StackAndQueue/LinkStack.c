@@ -135,6 +135,7 @@ Status LinkStackTraverse(LinkStack S)
 	return OK;
 }
 
+/*链栈*/
 int mainLinkStack(void)
 {
 	/*初始化参数*/

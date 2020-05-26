@@ -214,7 +214,7 @@ void LinkPostOrderTraverse(BiTree T)
 	printf("%c", T->data); /*显示结点数据，可以更改为其它对结点操作*/
 }
 
-
+/*二叉树链式结构实现*/
 int mainLink(void)
 {
 	/*初始化参数*/

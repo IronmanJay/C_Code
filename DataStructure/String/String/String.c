@@ -276,6 +276,7 @@ void StrPrint(String T)
 	printf("\n");
 }
 
+/*´®*/
 int mainString(void)
 {
 

@@ -121,6 +121,7 @@ Status DoubleStackTraverse(SqDoubleStack S)
 	return OK;
 }
 
+/*两栈共享空间*/
 int mainDoubleStack(void)
 {
 	/*初始化参数*/

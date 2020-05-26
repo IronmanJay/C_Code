@@ -144,6 +144,7 @@ Status InOrderTraverse_Thr(BiThrTree T)
 	return OK;
 }
 
+/*ÏßË÷¶þ²æÊ÷*/
 int mainThreading(void)
 {
 

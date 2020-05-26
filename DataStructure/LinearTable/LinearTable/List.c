@@ -177,7 +177,7 @@ void unionL(SqList *La, SqList Lb)
 	}
 }
 
-/*主函数*/
+/*线性表顺序存储*/
 int mainList(void)
 {
 	/*初始化两个线性顺序表*/

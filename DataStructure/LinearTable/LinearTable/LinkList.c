@@ -226,6 +226,7 @@ Status LinkClearList(LinkList *L)
 	return OK;
 }
 
+/*线性表链式存储*/
 int mainLinkList(void)
 {
 	LinkList L;

@@ -10,6 +10,7 @@ int Fbi(int i)
 	return Fbi(i - 1) + Fbi(i - 2); /*这里Fbi就是函数自己，它在调用自己*/
 }
 
+/*斐波那契函数*/
 int mainFib(void)
 {
 	/*非递归版本（迭代）*/

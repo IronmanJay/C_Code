@@ -206,6 +206,7 @@ int Index_KMP1(String S, String T, int pos)
 	}
 }
 
+/*Ä£Ê½Æ¥Åä*/
 int mainKMP(void)
 {
 

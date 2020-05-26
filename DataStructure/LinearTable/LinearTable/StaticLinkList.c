@@ -133,6 +133,7 @@ Status StaticLinkListTraverse(StaticLinkList L)
 	return OK;
 }
 
+/*静态链表*/
 int mainStaticLinkList(void)
 {
 	/*初始化定义*/

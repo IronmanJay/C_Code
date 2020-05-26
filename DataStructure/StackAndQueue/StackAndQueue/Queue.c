@@ -111,6 +111,7 @@ Status QueueTraverse(SqQueue Q)
 	return OK;
 }
 
+/*顺序队列*/
 int mainQueue(void)
 {
 	/*初始化参数*/

@@ -351,6 +351,7 @@ void Print(SqBiTree T)
 	}
 }
 
+/*二叉树顺序结构实现*/
 int mainBiTreeArray(void)
 {
 
