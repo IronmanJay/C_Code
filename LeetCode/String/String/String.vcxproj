@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p12_IntegerToRoman.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
   </ItemGroup>
