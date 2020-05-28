@@ -24,5 +24,8 @@
     <ClCompile Include="p12_IntegerToRoman.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p93_RestoreIpAddresses.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -118,6 +118,7 @@
     <ClCompile Include="p12_IntegerToRoman.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
+    <ClCompile Include="p93_RestoreIpAddresses.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
