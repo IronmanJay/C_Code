@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p12_IntegerToRoman.c" />
+    <ClCompile Include="p155_DistinctSubsequences.cpp" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
     <ClCompile Include="p93_RestoreIpAddresses.c" />
