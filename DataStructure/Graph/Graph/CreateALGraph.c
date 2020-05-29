@@ -67,7 +67,7 @@ void CreateALGraph(GraphAdjList *G)
 }
 
 /*邻接表创建*/
-int main(void)
+int mainCreateALGraph(void)
 {
 	GraphAdjList G;
 	CreateALGraph(&G);

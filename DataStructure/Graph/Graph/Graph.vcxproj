@@ -115,8 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AL_DFS_BFS.c" />
     <ClCompile Include="CreateALGraph.c" />
     <ClCompile Include="CreateMGraph.c" />
+    <ClCompile Include="M_DFS_BFS.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

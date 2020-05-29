@@ -21,5 +21,11 @@
     <ClCompile Include="CreateALGraph.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="M_DFS_BFS.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AL_DFS_BFS.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
