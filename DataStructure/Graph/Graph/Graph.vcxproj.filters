@@ -27,5 +27,11 @@
     <ClCompile Include="AL_DFS_BFS.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MiniSpanTree_Prim.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniSpanTree_Kruskal.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
