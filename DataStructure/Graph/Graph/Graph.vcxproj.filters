@@ -33,5 +33,17 @@
     <ClCompile Include="MiniSpanTree_Kruskal.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ShortestPath_Dijkstra.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortestPath_Floyd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TopologicalSort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CriticalPath.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
