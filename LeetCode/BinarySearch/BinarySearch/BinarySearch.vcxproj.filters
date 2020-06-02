@@ -21,5 +21,8 @@
     <ClCompile Include="p350_IntersectionOfTwoArraysII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p162_FindPeakElement.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
