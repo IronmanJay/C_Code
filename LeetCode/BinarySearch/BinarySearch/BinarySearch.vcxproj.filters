@@ -24,5 +24,8 @@
     <ClCompile Include="p162_FindPeakElement.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p33_SearchInRotatedSortedArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
