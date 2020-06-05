@@ -16,6 +16,9 @@
     <Filter Include="源文件\StaticSearch">
       <UniqueIdentifier>{8061eece-c8eb-4811-b251-2cbdf51a1e88}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\DynamicSearch">
+      <UniqueIdentifier>{3cd593b6-534c-49ae-ac8e-00e6202f1f69}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Sequential_Search.c">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="Fibonacci_Search.c">
       <Filter>源文件\StaticSearch</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySortTree.c">
+      <Filter>源文件\DynamicSearch</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
