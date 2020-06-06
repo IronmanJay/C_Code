@@ -36,5 +36,8 @@
     <ClCompile Include="BinarySortTree.c">
       <Filter>源文件\DynamicSearch</Filter>
     </ClCompile>
+    <ClCompile Include="AVLTree.c">
+      <Filter>源文件\DynamicSearch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -121,6 +121,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AVLTree.c" />
     <ClCompile Include="BinarySortTree.c" />
     <ClCompile Include="Binary_Search.c" />
     <ClCompile Include="Fibonacci_Search.c" />
