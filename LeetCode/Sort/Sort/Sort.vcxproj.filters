@@ -18,5 +18,8 @@
     <ClCompile Include="p922_SortArrayByParityII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1122_RelativeSortArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

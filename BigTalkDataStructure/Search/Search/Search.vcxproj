@@ -126,6 +126,7 @@
     <ClCompile Include="Binary_Search.c" />
     <ClCompile Include="BTree.c" />
     <ClCompile Include="Fibonacci_Search.c" />
+    <ClCompile Include="HashTable.c" />
     <ClCompile Include="Interpolation_Search.c" />
     <ClCompile Include="Sequential_Search.c" />
   </ItemGroup>

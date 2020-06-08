@@ -42,5 +42,8 @@
     <ClCompile Include="BTree.c">
       <Filter>源文件\DynamicSearch</Filter>
     </ClCompile>
+    <ClCompile Include="HashTable.c">
+      <Filter>源文件\DynamicSearch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
