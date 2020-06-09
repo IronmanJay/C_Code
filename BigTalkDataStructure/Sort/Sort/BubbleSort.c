@@ -93,7 +93,7 @@ void BubbleSort2(SqList *L)
 
 /*ц╟ещеепР*/
 #define N 9
-int main(void)
+int mainBubbleSort(void)
 {
 
 	int i;
