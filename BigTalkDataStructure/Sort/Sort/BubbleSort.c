@@ -21,7 +21,7 @@ typedef struct
 }SqList;
 
 /*交换L中数组r的下标为i和j的值*/
-void swap(SqList *L, int i, int j)
+void BubbleSortswap(SqList *L, int i, int j)
 {
 	int temp = L->r[i];
 	L->r[i] = L->r[j];
@@ -29,7 +29,7 @@ void swap(SqList *L, int i, int j)
 }
 
 /*打印*/
-void print(SqList L)
+void BubbleSortprint(SqList L)
 {
 	int i;
 	for (i = 1; i < L.length; i++)
@@ -50,7 +50,7 @@ void BubbleSort0(SqList *L)
 		{
 			if (L->r[i] > L->r[j])
 			{
-				swap(L, i, j); /*交换L->r[i]与L->r[j]的值*/
+				BubbleSortswap(L, i, j); /*交换L->r[i]与L->r[j]的值*/
 			}
 		}
 	}
@@ -66,7 +66,7 @@ void BubbleSort1(SqList *L)
 		{
 			if (L->r[j] > L->r[j + 1]) /*若前者大于后者（注意这里与上一算法的差异）*/
 			{
-				swap(L, j, j + 1); /*交换L->r[j]与L->r[j+1]的值*/
+				BubbleSortswap(L, j, j + 1); /*交换L->r[j]与L->r[j+1]的值*/
 			}
 		}
 	}
@@ -84,7 +84,7 @@ void BubbleSort2(SqList *L)
 		{
 			if (L->r[j] > L->r[j + 1])
 			{
-				swap(L, j, j + 1); /*交换L->r[j]与L->r[j+1]的值*/
+				BubbleSortswap(L, j, j + 1); /*交换L->r[j]与L->r[j+1]的值*/
 				flag = TRUE; /*如果有数据交换，则flag为true*/
 			}
 		}
@@ -109,19 +109,19 @@ int mainBubbleSort(void)
 	l1 = l2 = l0;
 
 	printf("排序前:\n");
-	print(l0);
+	BubbleSortprint(l0);
 
 	printf("初级冒泡排序:\n");
 	BubbleSort0(&l0);
-	print(l0);
+	BubbleSortprint(l0);
 
 	printf("冒泡排序:\n");
 	BubbleSort1(&l1);
-	print(l1);
+	BubbleSortprint(l1);
 
 	printf("改进冒泡排序:\n");
 	BubbleSort2(&l2);
-	print(l2);
+	BubbleSortprint(l2);
 
 	printf("========================================================================================================================");
 
@@ -141,7 +141,7 @@ int mainBubbleSort(void)
 	}
 	l.length = Max;
 	BubbleSort2(&l);
-	print(l);
+	BubbleSortprint(l);
 
 	getchar();
 

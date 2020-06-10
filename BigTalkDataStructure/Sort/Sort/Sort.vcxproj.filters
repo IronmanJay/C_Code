@@ -18,5 +18,11 @@
     <ClCompile Include="BubbleSort.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SelectSort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
