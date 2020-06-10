@@ -21,5 +21,8 @@
     <ClCompile Include="p1122_RelativeSortArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p179_LargestNumber.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

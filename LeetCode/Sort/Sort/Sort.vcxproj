@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p1122_RelativeSortArray.c" />
+    <ClCompile Include="p179_LargestNumber.c" />
     <ClCompile Include="p922_SortArrayByParityII.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
