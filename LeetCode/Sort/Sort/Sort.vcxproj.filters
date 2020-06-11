@@ -24,5 +24,8 @@
     <ClCompile Include="p179_LargestNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p56_MergeIntervals.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
