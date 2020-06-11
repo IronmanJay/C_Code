@@ -1,7 +1,7 @@
 #include<stdio.h>
-#include<string.h>
-#include<ctype.h>
 #include<stdlib.h>
+#include<ctype.h>
+#include<string.h>
 #include<io.h>
 #include<math.h>
 #include<time.h>
@@ -21,15 +21,14 @@ typedef struct
 }SqList;
 
 /*交换L中数组r的下标为i和j的值*/
-void Insertswap(SqList *L, int i, int j)
+void Shellswap(SqList *L, int i, int j)
 {
 	int temp = L->r[i];
 	L->r[i] = L->r[j];
 	L->r[j] = temp;
 }
 
-/*打印*/
-void Insertprint(SqList L)
+void Shellprint(SqList L)
 {
 	int i;
 	for (i = 1; i < L.length; i++)
@@ -40,28 +39,33 @@ void Insertprint(SqList L)
 	printf("\n");
 }
 
-/*对顺序表L作直接插入排序*/
-void InsertSort(SqList *L)
+void ShellSort(SqList *L)
 {
-	int i, j;
-	for (i = 2; i <= L->length; i++)
+	int i, j, k = 0;
+	int increment = L->length;
+	do 
 	{
-		if (L->r[i] < L->r[i - 1]) /*需将L->r[i]插入有序子表*/
+		increment = increment / 3 + 1; /*增量序列*/
+		for (i = increment + 1; i <= L->length; i++)
 		{
-			L->r[0] = L->r[i]; /*设置哨兵*/
-			for (j = i - 1; L->r[j] > L->r[0]; j--)
+			if (L->r[i] < L->r[i - increment]) /*需将L->r[i]插入有序增量子表*/
 			{
-				L->r[j + 1] = L->r[j]; /*记录后移*/
+				L->r[0] = L->r[i]; /*暂存在L->[0]*/
+				for (j = i - increment; j > 0 && L->r[0] < L->r[j]; j -= increment)
+				{
+					L->r[j + increment] = L->r[j]; /*记录后移，查找插入位置*/
+				}
+				L->r[j + increment] = L->r[0]; /*插入*/
 			}
-			L->r[j + 1] = L->r[0]; /*插入到正确位置*/
 		}
-	}
+		printf("	第%d趟排序结果: ", ++k);
+		Shellprint(*L);
+	} while (increment > 1);
 }
 
-
-/*直接插入排序*/
+/*希尔排序*/
 #define N 9
-int mainInsertSort(void)
+int mainShellSort(void)
 {
 
 	int i;
@@ -75,11 +79,11 @@ int mainInsertSort(void)
 	l1 = l0;
 
 	printf("排序前:\n");
-	Insertprint(l0);
+	Shellprint(l0);
 
-	printf("直接插入排序:\n");
-	InsertSort(&l1);
-	Insertprint(l1);
+	printf("希尔排序:\n");
+	ShellSort(&l0);
+	Shellprint(l0);
 
 	printf("========================================================================================================================");
 
@@ -98,8 +102,8 @@ int mainInsertSort(void)
 		l.r[p + 1] = num[p];
 	}
 	l.length = Max;
-	InsertSort(&l);
-	Insertprint(l);
+	ShellSort(&l);
+	Shellprint(l);
 
 	getchar();
 

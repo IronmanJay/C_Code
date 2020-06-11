@@ -118,6 +118,7 @@
     <ClCompile Include="BubbleSort.c" />
     <ClCompile Include="InsertSort.c" />
     <ClCompile Include="SelectSort.c" />
+    <ClCompile Include="ShellSort.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
