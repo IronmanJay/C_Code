@@ -27,5 +27,8 @@
     <ClCompile Include="p56_MergeIntervals.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p164_MaximumGap.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
