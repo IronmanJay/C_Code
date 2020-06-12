@@ -116,7 +116,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BubbleSort.c" />
+    <ClCompile Include="HeapSort.c" />
     <ClCompile Include="InsertSort.c" />
+    <ClCompile Include="MergeSort.c" />
+    <ClCompile Include="QuickSort.c" />
     <ClCompile Include="RadixSort.c" />
     <ClCompile Include="SelectSort.c" />
     <ClCompile Include="ShellSort.c" />
