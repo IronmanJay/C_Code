@@ -24,5 +24,8 @@
     <ClCompile Include="p150_EvaluateReversePolishNotation.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p856_ScoreOfParentheses.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
