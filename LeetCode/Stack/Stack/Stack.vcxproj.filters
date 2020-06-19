@@ -27,5 +27,8 @@
     <ClCompile Include="p856_ScoreOfParentheses.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p145_BinaryTreePostorderTraversal.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

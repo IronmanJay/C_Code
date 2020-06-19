@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I9_UsingTwoStacksToImplementQueues.c" />
+    <ClCompile Include="p145_BinaryTreePostorderTraversal.c" />
     <ClCompile Include="p150_EvaluateReversePolishNotation.c" />
     <ClCompile Include="p20_ValidParentheses.c" />
     <ClCompile Include="p856_ScoreOfParentheses.c" />
