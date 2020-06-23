@@ -18,5 +18,8 @@
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p88_MergeSortedArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
