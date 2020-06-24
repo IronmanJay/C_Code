@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c" />
+    <ClCompile Include="p287_FindTheDuplicateNumber.c" />
     <ClCompile Include="p88_MergeSortedArray.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
