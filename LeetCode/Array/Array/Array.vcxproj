@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p11_ContainerWithMostWater.c" />
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c" />
     <ClCompile Include="p287_FindTheDuplicateNumber.c" />
     <ClCompile Include="p88_MergeSortedArray.c" />
