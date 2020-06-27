@@ -27,5 +27,8 @@
     <ClCompile Include="p11_ContainerWithMostWater.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p4_MedianOfTwoSortedArrays.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
