@@ -18,5 +18,8 @@
     <ClCompile Include="I0202_KthNodeFromEndOfListLcc.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p21_MergeTwoSortedLists.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
