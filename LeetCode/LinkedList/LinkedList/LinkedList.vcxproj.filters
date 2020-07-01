@@ -21,5 +21,8 @@
     <ClCompile Include="p21_MergeTwoSortedLists.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p148_SortList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
