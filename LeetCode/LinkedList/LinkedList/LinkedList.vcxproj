@@ -119,6 +119,7 @@
     <ClCompile Include="p147_InsertionSortList.c" />
     <ClCompile Include="p148_SortList.c" />
     <ClCompile Include="p21_MergeTwoSortedLists.c" />
+    <ClCompile Include="p25_ReverseNodesInKGroup.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

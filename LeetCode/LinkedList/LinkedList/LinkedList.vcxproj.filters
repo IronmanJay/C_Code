@@ -27,5 +27,8 @@
     <ClCompile Include="p147_InsertionSortList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p25_ReverseNodesInKGroup.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
