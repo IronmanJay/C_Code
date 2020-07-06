@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="I32_PrintBinaryTreeFromTopToBottom.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="p101_SymmetricTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -28,6 +25,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p854_KSimilarStrings.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottom.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

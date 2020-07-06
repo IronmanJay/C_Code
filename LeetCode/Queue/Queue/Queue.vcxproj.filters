@@ -18,5 +18,8 @@
     <ClCompile Include="p933_NumberOfRecentCalls.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o59_I_MaximumValueOfSlidingWindow.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
