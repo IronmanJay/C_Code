@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="o59_I_MaximumValueOfSlidingWindow.c" />
+    <ClCompile Include="o59_I_SlidingWindowMaximum.c" />
     <ClCompile Include="p933_NumberOfRecentCalls.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
