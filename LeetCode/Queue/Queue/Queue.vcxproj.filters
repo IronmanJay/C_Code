@@ -21,5 +21,8 @@
     <ClCompile Include="o59_I_SlidingWindowMaximum.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P622_DesignCircularQueue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
