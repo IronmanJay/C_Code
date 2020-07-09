@@ -24,5 +24,8 @@
     <ClCompile Include="P622_DesignCircularQueue.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p641.DesignCircularDeque.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
