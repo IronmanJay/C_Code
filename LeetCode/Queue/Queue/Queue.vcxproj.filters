@@ -27,5 +27,8 @@
     <ClCompile Include="p641.DesignCircularDeque.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1709_GetKthMagicNumberLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

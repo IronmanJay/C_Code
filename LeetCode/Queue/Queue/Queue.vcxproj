@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I1709_GetKthMagicNumberLcci.c" />
     <ClCompile Include="o59_I_SlidingWindowMaximum.c" />
     <ClCompile Include="P622_DesignCircularQueue.c" />
     <ClCompile Include="p641.DesignCircularDeque.c" />
