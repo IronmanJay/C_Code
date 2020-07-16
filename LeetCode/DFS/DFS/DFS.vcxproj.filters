@@ -24,5 +24,8 @@
     <ClCompile Include="p515_FindLargestValueInEachTreeRow.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I0406_SuccessorLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
