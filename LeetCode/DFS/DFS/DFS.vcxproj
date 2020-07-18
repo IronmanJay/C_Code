@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="I0406_SuccessorLcci.c" />
     <ClCompile Include="p100_SameTree.c" />
+    <ClCompile Include="p1028_RecoverATreeFromPreorderTraversal.c" />
     <ClCompile Include="p111_MinimumDepthOfBinaryTree.c" />
     <ClCompile Include="p515_FindLargestValueInEachTreeRow.c" />
   </ItemGroup>
