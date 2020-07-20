@@ -18,5 +18,8 @@
     <ClCompile Include="p122_BestTimeToBuyAndSellStockII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1221_SplitAStringInBalancedStrings.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
