@@ -27,5 +27,8 @@
     <ClCompile Include="p406_QueueReconstructionByHeight.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p765_CouplesHoldingHands.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

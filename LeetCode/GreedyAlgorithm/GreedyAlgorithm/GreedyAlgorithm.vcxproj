@@ -119,6 +119,7 @@
     <ClCompile Include="p122_BestTimeToBuyAndSellStockII.c" />
     <ClCompile Include="p134_GasStation.c" />
     <ClCompile Include="p406_QueueReconstructionByHeight.c" />
+    <ClCompile Include="p765_CouplesHoldingHands.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
