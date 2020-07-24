@@ -3,4 +3,4 @@
 # 更新于2020-06-11
 新增《大话数据结构》全书代码内容
 # 注：  
-Java版请移步：[Java版](https://github.com/IronmanJay/LeetCode)
+Java版LeetCode每日一题请移步：[Java版](https://github.com/IronmanJay/LeetCode)
