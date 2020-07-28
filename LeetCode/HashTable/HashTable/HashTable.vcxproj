@@ -116,7 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p202_HappyNumber.c" />
-    <ClCompile Include="p217_ContainsDuplicate.cpp" />
+    <ClCompile Include="p217_ContainsDuplicate.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

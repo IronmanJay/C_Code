@@ -18,7 +18,7 @@
     <ClCompile Include="p202_HappyNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p217_ContainsDuplicate.cpp">
+    <ClCompile Include="p217_ContainsDuplicate.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
