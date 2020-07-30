@@ -24,5 +24,8 @@
     <ClCompile Include="p49_GroupAnagrams.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p36_ValidSudoku.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
