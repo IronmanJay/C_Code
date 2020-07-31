@@ -27,5 +27,8 @@
     <ClCompile Include="p36_ValidSudoku.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p347_TopKFrequentElements.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

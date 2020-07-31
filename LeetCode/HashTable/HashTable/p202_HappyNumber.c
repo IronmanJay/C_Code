@@ -50,7 +50,7 @@ bool isHappy(int n)
 		{
 			return false;
 		}
-		// 否则更新n的值继续循环
+		/*否则更新n的值继续循环*/
 		else
 		{
 			set[len++] = n;
