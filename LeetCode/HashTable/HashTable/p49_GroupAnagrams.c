@@ -110,7 +110,7 @@ char *** groupAnagrams(char ** strs, int strsSize, int* returnSize, int** return
 			(*returnColumnSizes)[row]++;
 		}
 		/*key不存在*/
-		else 
+		else
 		{
 			/*插入Hash表中*/
 			add(hashTable, curStr, strsSize, *returnSize);

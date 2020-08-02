@@ -14,7 +14,7 @@ int find_hash(int n, int* hash, int size)
 		location = -location;
 	}
 	/*如果这个地址不是n，并且这个地址有元素，说明当前元素不是n*/
-	while(hash[location] != n && hash[location] != -234567)
+	while (hash[location] != n && hash[location] != -234567)
 	{
 		/*地址+1*/
 		location++;
