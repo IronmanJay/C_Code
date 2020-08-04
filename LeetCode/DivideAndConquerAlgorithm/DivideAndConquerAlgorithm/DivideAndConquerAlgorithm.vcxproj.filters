@@ -18,5 +18,8 @@
     <ClCompile Include="p169_MajorityElement.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1710_FindMajorityElementLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -11,7 +11,7 @@
  * @param right  右指针
  * @return 当前部分数组target出现的次数
  */
-int countInRange(int* nums, int target, int left, int right)
+int p169countInRange(int* nums, int target, int left, int right)
 {
 	int count = 0;
 	for (int i = left; i <= right; i++)
@@ -32,7 +32,7 @@ int countInRange(int* nums, int target, int left, int right)
  * @param right 右指针
  * @return 当前部分的众数
  */
-int majorityElementReturn(int* nums, int left, int right)
+int p169majorityElementReturn(int* nums, int left, int right)
 {
 	/*如果分成了单个元素，直接返回，开始“治”*/
 	if (left == right)
@@ -42,23 +42,23 @@ int majorityElementReturn(int* nums, int left, int right)
 	/*这里使用二分法，开始“分”*/
 	int mid = (right - left) / 2 + left;
 	/*分别向左右递归，开始“分”，最终将数组分成单个元素*/
-	int leftNum = majorityElementReturn(nums, left, mid);
+	int leftNum = p169majorityElementReturn(nums, left, mid);
+	int rightNum = p169majorityElementReturn(nums, mid + 1, right);
 	/*如果分成当前部分单个元素，左边元素值和右边元素值相等，说明当前阶段的众数就是这个元素，返回即可，这也是“治”*/
-	int rightNum = majorityElementReturn(nums, mid + 1, right);
 	if (leftNum == rightNum)
 	{
 		return leftNum;
 	}
 	/*如果分成当前部分单个元素左边和右边不相等，那么就需要在当前数组中找到谁出现的次数更多就返回谁*/
-	int leftNumCount = countInRange(nums, leftNum, left, mid);
-	int rightNumCount = countInRange(nums, rightNum, mid + 1, right);
+	int leftNumCount = p169countInRange(nums, leftNum, left, mid);
+	int rightNumCount = p169countInRange(nums, rightNum, mid + 1, right);
 	/*得到的结果谁出现的次数多就返回谁*/
 	return leftNumCount > rightNumCount ? leftNum : rightNum;
 }
 
-int majorityElement(int* nums, int numsSize)
+int p169majorityElement(int* nums, int numsSize)
 {
-	return majorityElementReturn(nums, 0, numsSize - 1);
+	return p169majorityElementReturn(nums, 0, numsSize - 1);
 }
 
 int main(void)
