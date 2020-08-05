@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I1710_FindMajorityElementLcci.c" />
+    <ClCompile Include="I1714_SmallestKLcci.c" />
     <ClCompile Include="p169_MajorityElement.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

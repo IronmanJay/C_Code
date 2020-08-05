@@ -21,5 +21,8 @@
     <ClCompile Include="I1710_FindMajorityElementLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1714_SmallestKLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
