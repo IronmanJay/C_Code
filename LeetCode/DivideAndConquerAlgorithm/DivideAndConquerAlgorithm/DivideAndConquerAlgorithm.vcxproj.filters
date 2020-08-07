@@ -24,5 +24,11 @@
     <ClCompile Include="I1714_SmallestKLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p932_BeautifulArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p240_SearchA2dMatrixII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
