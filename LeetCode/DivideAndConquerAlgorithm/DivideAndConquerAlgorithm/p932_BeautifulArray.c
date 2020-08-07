@@ -3,7 +3,7 @@
 #include<string.h>
 
 /*
-  arr:数组
+  arr:待生成数组
   N:要生成的数组元素个数
   start:数组开始位置
   end:数组结束位置
