@@ -12,7 +12,7 @@ char * intToRoman(int num)
 	// 数字对应罗马数字的值
 	char str[13][3] = { "M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I" };
 	// 一共十三个对应关系，循环十三遍
-	for (int i = 0; i < 13; i++) 
+	for (int i = 0; i < 13; i++)
 	{
 		// 当while循环继续的时候，说明当前位有值
 		while (num >= value[i])
