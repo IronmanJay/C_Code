@@ -120,6 +120,7 @@
     <ClCompile Include="p28_ImplementStrstr.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
+    <ClCompile Include="p647_PalindromicSubstrings.c" />
     <ClCompile Include="p67_AddBinary.c" />
     <ClCompile Include="p93_RestoreIpAddresses.c" />
   </ItemGroup>

@@ -36,5 +36,8 @@
     <ClCompile Include="p28_ImplementStrstr.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p647_PalindromicSubstrings.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
