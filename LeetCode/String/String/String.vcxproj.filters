@@ -33,5 +33,8 @@
     <ClCompile Include="p67_AddBinary.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p28_ImplementStrstr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
