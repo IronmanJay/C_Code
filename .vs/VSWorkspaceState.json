@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\String"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\LeetCode\\String\\String.sln",
   "PreviewInSolutionExplorer": false
 }

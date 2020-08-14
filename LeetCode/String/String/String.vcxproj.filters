@@ -42,5 +42,8 @@
     <ClCompile Include="p3_LongestSubstringWithoutRepeatingCharacters.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p125_ValidPalindrome.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
