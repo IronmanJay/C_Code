@@ -119,6 +119,7 @@
     <ClCompile Include="p145_BinaryTreePostorderTraversal.c" />
     <ClCompile Include="p150_EvaluateReversePolishNotation.c" />
     <ClCompile Include="p20_ValidParentheses.c" />
+    <ClCompile Include="p232_ImplementQueueUsingStacks.c" />
     <ClCompile Include="p856_ScoreOfParentheses.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
