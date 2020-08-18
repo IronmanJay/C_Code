@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I0302_MinStackLcci.c" />
     <ClCompile Include="o09_UsingTwoStacksToImplementQueues.c" />
     <ClCompile Include="p145_BinaryTreePostorderTraversal.c" />
     <ClCompile Include="p150_EvaluateReversePolishNotation.c" />

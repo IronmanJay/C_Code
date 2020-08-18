@@ -33,5 +33,8 @@
     <ClCompile Include="p232_ImplementQueueUsingStacks.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I0302_MinStackLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
