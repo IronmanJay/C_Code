@@ -36,5 +36,8 @@
     <ClCompile Include="I0302_MinStackLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1047_RemoveAllAdjacentDuplicatesInString.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
