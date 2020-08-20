@@ -118,6 +118,7 @@
     <ClCompile Include="I0302_MinStackLcci.c" />
     <ClCompile Include="o09_UsingTwoStacksToImplementQueues.c" />
     <ClCompile Include="p1047_RemoveAllAdjacentDuplicatesInString.c" />
+    <ClCompile Include="p144_BinaryTreePreorderTraversal.c" />
     <ClCompile Include="p145_BinaryTreePostorderTraversal.c" />
     <ClCompile Include="p150_EvaluateReversePolishNotation.c" />
     <ClCompile Include="p20_ValidParentheses.c" />
