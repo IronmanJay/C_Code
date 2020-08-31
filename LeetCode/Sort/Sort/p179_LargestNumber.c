@@ -6,7 +6,7 @@
 #define MAX 10
 
 /*自定义比较函数，如果s2+s1>s1+s2，就返回到qsort交换两个元素*/
-int cmp(const void *p1, const void *p2)
+int p179_LargestNumber_cmp(const void *p1, const void *p2)
 {
 	char a1[MAX * 2 + 1];
 	char a2[MAX * 2 + 1];
@@ -22,7 +22,7 @@ char * largestNumber(int* nums, int numsSize)
 	char *result = malloc(numsSize * MAX + 1);
 	memset(result, '\0', numsSize * MAX + 1);
 	/*使用自定义比较函数，具体看cmp*/
-	qsort(nums, numsSize, sizeof(int), cmp);
+	qsort(nums, numsSize, sizeof(int), p179_LargestNumber_cmp);
 	/*如果比较排序后第一个数组是0，直接返回*/
 	if (nums[0] == 0)
 	{
