@@ -119,6 +119,7 @@
     <ClCompile Include="p164_MaximumGap.c" />
     <ClCompile Include="p179_LargestNumber.c" />
     <ClCompile Include="p242_ValidAnagram.c" />
+    <ClCompile Include="p976_LargestPerimeterTriangle.c" />
     <ClCompile Include="p56_MergeIntervals.c" />
     <ClCompile Include="p922_SortArrayByParityII.c" />
   </ItemGroup>
