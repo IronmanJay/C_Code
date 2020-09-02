@@ -4,7 +4,7 @@
 #include<string.h>
 
 /*±È½ÏÆ÷*/
-int compare(void *a, void *b)
+int p56_MergeIntervals_compare(void *a, void *b)
 {
 	int *arr1 = *(int **)a;
 	int *arr2 = *(int **)b;
@@ -23,7 +23,7 @@ int** merge(int** intervals, int intervalsSize, int *intervalsColSize, int* retu
 	{
 		return NULL;
 	}
-	qsort(intervals, intervalsSize, sizeof(int *), compare);
+	qsort(intervals, intervalsSize, sizeof(int *), p56_MergeIntervals_compare);
 	int **result = (int **)malloc(sizeof(int *)*intervalsSize);
 	int flag = 0;
 	int start = -1;
