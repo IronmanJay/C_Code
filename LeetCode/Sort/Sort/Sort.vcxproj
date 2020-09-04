@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I1616_SubSortLcci.c" />
     <ClCompile Include="o45_ArrangeTheArrayIntoTheSmallestNumber.c" />
     <ClCompile Include="p1122_RelativeSortArray.c" />
     <ClCompile Include="p164_MaximumGap.c" />
