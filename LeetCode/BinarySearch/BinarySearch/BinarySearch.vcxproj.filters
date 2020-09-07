@@ -30,5 +30,8 @@
     <ClCompile Include="p1095_FindInMountainArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

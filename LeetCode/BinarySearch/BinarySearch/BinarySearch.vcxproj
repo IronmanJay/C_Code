@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p1095_FindInMountainArray.c" />
     <ClCompile Include="p162_FindPeakElement.c" />
+    <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c" />
     <ClCompile Include="p33_SearchInRotatedSortedArray.c" />
     <ClCompile Include="p350_IntersectionOfTwoArraysII.c" />
     <ClCompile Include="p367_ValidPerfectSquare.c" />
