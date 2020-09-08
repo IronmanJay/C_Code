@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\BinarySearch"
   ],
+  "SelectedNode": "\\LeetCode\\BinarySearch\\BinarySearch.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -33,5 +33,8 @@
     <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o53_II_MissingNumbersOf0ToNLess1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
