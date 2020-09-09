@@ -39,5 +39,8 @@
     <ClCompile Include="p74_SearchA2dMatrix.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1009_SortedMatrixSearchLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

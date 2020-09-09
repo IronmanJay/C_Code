@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<stdbool.h>
 
-bool searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target)
+bool p74_SearchA2dMatrix_searchMatrix(int** matrix, int matrixSize, int* matrixColSize, int target)
 {
 	/*ÅÐ¿Õ·µ»Ø*/
 	if (matrix == NULL || matrixSize == 0 || matrixColSize[0] == 0)
