@@ -36,5 +36,8 @@
     <ClCompile Include="o53_II_MissingNumbersOf0ToNLess1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p74_SearchA2dMatrix.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

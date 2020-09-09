@@ -122,6 +122,7 @@
     <ClCompile Include="p33_SearchInRotatedSortedArray.c" />
     <ClCompile Include="p350_IntersectionOfTwoArraysII.c" />
     <ClCompile Include="p367_ValidPerfectSquare.c" />
+    <ClCompile Include="p74_SearchA2dMatrix.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
