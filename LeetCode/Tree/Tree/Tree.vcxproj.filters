@@ -18,5 +18,8 @@
     <ClCompile Include="p110_BalancedBinaryTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o55_I_DepthOfBinaryTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
