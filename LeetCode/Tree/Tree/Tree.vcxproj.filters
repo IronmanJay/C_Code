@@ -24,5 +24,8 @@
     <ClCompile Include="p94_BinaryTreeInorderTraversal.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p96_UniqueBinarySearchTrees.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
