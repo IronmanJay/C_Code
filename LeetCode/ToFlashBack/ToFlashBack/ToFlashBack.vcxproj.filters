@@ -18,5 +18,8 @@
     <ClCompile Include="p39_CombinationSum.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p46_Permutations.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

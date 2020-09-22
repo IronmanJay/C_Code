@@ -14,7 +14,7 @@ int* resColumnSize;
 /*路经数组长度、指针*/
 int pathSize;
 
-void dfs(int* candidates, int begin, int target, int** res, int* path)
+void p39_CombinationSum_dfs(int* candidates, int begin, int target, int** res, int* path)
 {
 	/*target为负数说明当前搜索失败，没找到对应的组合，因为做减法，只有最后减到0才有相应的组合*/
 	if (target < 0)
@@ -39,7 +39,7 @@ void dfs(int* candidates, int begin, int target, int** res, int* path)
 		/*将当前结点添加到路径中*/
 		path[pathSize++] = candidates[i];
 		/*开始搜索，每次从头开始减，因为元素可以重复使用，所以下一轮的起点还是i，target由于做减法，减去当前遍历到的值，最后如果减到0说明找到了对应的组合*/
-		dfs(candidates, i, target - candidates[i], res, path);
+		p39_CombinationSum_dfs(candidates, i, target - candidates[i], res, path);
 		/*每找到一个路经，重置状态*/
 		pathSize--;
 	}
@@ -58,7 +58,7 @@ int** combinationSum(int* candidates, int candidatesSize, int target, int* retur
 	/*创建路经数组*/
 	int path[2001];
 	/*开始搜索*/
-	dfs(candidates, 0, target, res, path);
+	p39_CombinationSum_dfs(candidates, 0, target, res, path);
 	/*返回数组长度*/
 	*returnSize = resSize;
 	/*返回数组列长度*/
