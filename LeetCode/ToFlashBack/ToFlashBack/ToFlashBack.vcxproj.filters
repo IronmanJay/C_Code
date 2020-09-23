@@ -24,5 +24,8 @@
     <ClCompile Include="p47_PermutationsII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p40_CombinationSumII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

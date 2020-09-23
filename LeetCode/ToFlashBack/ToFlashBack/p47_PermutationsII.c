@@ -16,7 +16,7 @@ int* resColumnSize;
 int pathSize;
 
 /*对数组进行排序的排序规则*/
-int compare(const void *a, const void *b)
+int p47_PermutationsII_compare(const void *a, const void *b)
 {
 	return *(int*)a - *(int*)b;
 }
@@ -80,7 +80,7 @@ int** permuteUnique(int* nums, int numsSize, int* returnSize, int** returnColumn
 	bool* used = (bool*)malloc(sizeof(bool)*numslen);
 	memset(used, 0, numslen * sizeof(bool));
 	/*只有排序了才能剪枝，升序降序都可以，遇到重复数并且前一个重复的未使用就剪枝*/
-	qsort(nums, numsSize, sizeof(int), compare);
+	qsort(nums, numsSize, sizeof(int), p47_PermutationsII_compare);
 	/*开始搜索*/
 	p47_PermutationsII_dfs(nums, res, path, used, 0);
 	/*返回数组长度*/
