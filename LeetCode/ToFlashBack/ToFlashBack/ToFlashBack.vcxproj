@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p39_CombinationSum.c" />
     <ClCompile Include="p46_Permutations.c" />
+    <ClCompile Include="p47_PermutationsII.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
