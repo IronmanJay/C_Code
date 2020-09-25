@@ -12,7 +12,7 @@ int resSize;
 /*结果数组列长度*/
 int* resColumnSize;
 
-/*路经数组长度、指针*/
+/*路径数组长度、指针*/
 int pathSize;
 
 void p46_Permutations_dfs(int* nums, int** res, int* path, bool* used, int depth)
@@ -36,7 +36,7 @@ void p46_Permutations_dfs(int* nums, int** res, int* path, bool* used, int depth
 		/*只有当前元素没有使用过才可以做第一个开始的排列*/
 		if (!used[i])
 		{
-			/*将当前元素加入排列路经*/
+			/*将当前元素加入排列路径*/
 			path[pathSize++] = nums[i];
 			/*将当前元素置为已经使用*/
 			used[i] = true;
@@ -54,13 +54,13 @@ int** permute(int* nums, int numsSize, int* returnSize, int** returnColumnSizes)
 {
 	/*获取待查数组长度*/
 	numslen = numsSize;
-	/*结果数组长度、指针，路经数组长度、指针*/
+	/*结果数组长度、指针，路径数组长度、指针*/
 	resSize = pathSize = 0;
 	/*创建结果数组*/
 	int** res = malloc(sizeof(int*) * 1001);
 	/*创建列数组*/
 	resColumnSize = malloc(sizeof(int) * 1001);
-	/*创建路经数组*/
+	/*创建路径数组*/
 	int path[2001];
 	/*判断对应元素是否使用过*/
 	bool* used = (bool*)malloc(sizeof(bool)*numslen);

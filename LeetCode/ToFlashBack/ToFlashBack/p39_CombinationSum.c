@@ -11,7 +11,7 @@ int resSize;
 /*结果数组列长度*/
 int* resColumnSize;
 
-/*路经数组长度、指针*/
+/*路径数组长度、指针*/
 int pathSize;
 
 void p39_CombinationSum_dfs(int* candidates, int begin, int target, int** res, int* path)
@@ -21,7 +21,7 @@ void p39_CombinationSum_dfs(int* candidates, int begin, int target, int** res, i
 	{
 		return;
 	}
-	/*target为0说明搜索到对应的组合，将这条路经加入到结果中，并返回*/
+	/*target为0说明搜索到对应的组合，将这条路径加入到结果中，并返回*/
 	if (target == 0)
 	{
 		int* temp = malloc(sizeof(int) * pathSize);
@@ -40,7 +40,7 @@ void p39_CombinationSum_dfs(int* candidates, int begin, int target, int** res, i
 		path[pathSize++] = candidates[i];
 		/*开始搜索，每次从头开始减，因为元素可以重复使用，所以下一轮的起点还是i，target由于做减法，减去当前遍历到的值，最后如果减到0说明找到了对应的组合*/
 		p39_CombinationSum_dfs(candidates, i, target - candidates[i], res, path);
-		/*每找到一个路经，重置状态*/
+		/*每找到一个路径，重置状态*/
 		pathSize--;
 	}
 }
@@ -49,13 +49,13 @@ int** combinationSum(int* candidates, int candidatesSize, int target, int* retur
 {
 	/*获取待查数组长度*/
 	candidatesLen = candidatesSize;
-	/*结果数组长度、指针，路经数组长度、指针*/
+	/*结果数组长度、指针，路径数组长度、指针*/
 	resSize = pathSize = 0;
 	/*创建结果数组*/
 	int** res = malloc(sizeof(int*) * 1001);
 	/*创建列数组*/
 	resColumnSize = malloc(sizeof(int) * 1001);
-	/*创建路经数组*/
+	/*创建路径数组*/
 	int path[2001];
 	/*开始搜索*/
 	p39_CombinationSum_dfs(candidates, 0, target, res, path);
