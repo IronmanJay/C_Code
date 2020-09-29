@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I1617_ContiguousSequenceLcci.c" />
+    <ClCompile Include="p198_HouseRobber.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

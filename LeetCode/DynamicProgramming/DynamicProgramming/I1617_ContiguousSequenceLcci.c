@@ -3,7 +3,7 @@
 #include<stdlib.h>
 
 /*返回两者中较大值*/
-int Max(int x, int y)
+int I1617_ContiguousSequenceLcci_Max(int x, int y)
 {
 	if (x > y)
 	{
@@ -34,9 +34,9 @@ int maxSubArray(int* nums, int numsSize)
 	for (int i = 1; i < numsSize; i++)
 	{
 		/*动态数组对应位置存储当前位置元素和之前的和元素中较大的值*/
-		dp[i] = Max((dp[i - 1] + nums[i]), nums[i]);
+		dp[i] = I1617_ContiguousSequenceLcci_Max((dp[i - 1] + nums[i]), nums[i]);
 		/*更新最大值*/
-		max = Max(max, dp[i]);
+		max = I1617_ContiguousSequenceLcci_Max(max, dp[i]);
 	}
 	/*返回结果*/
 	return max;
