@@ -27,5 +27,8 @@
     <ClCompile Include="p64_MinimumPathSum.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p279_PerfectSquares.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

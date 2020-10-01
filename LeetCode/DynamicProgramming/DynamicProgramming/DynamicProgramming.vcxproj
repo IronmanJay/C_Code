@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="I1617_ContiguousSequenceLcci.c" />
     <ClCompile Include="p198_HouseRobber.c" />
+    <ClCompile Include="p279_PerfectSquares.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
     <ClCompile Include="p64_MinimumPathSum.c" />
   </ItemGroup>
