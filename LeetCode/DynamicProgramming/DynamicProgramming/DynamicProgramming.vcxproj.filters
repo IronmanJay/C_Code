@@ -30,5 +30,8 @@
     <ClCompile Include="p279_PerfectSquares.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p120_Triangle.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
