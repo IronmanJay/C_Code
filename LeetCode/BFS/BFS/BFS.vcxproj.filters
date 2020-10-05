@@ -30,5 +30,8 @@
     <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottom.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
