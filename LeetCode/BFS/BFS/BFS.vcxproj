@@ -123,6 +123,7 @@
     <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c" />
     <ClCompile Include="p199_BinaryTreeRightSideView.c" />
     <ClCompile Include="p513_FindBottomLeftTreeValue.c" />
+    <ClCompile Include="p559_MaximumdepthOfNAryTree.c" />
     <ClCompile Include="p854_KSimilarStrings.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
