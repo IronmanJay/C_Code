@@ -33,7 +33,10 @@
     <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p559_MaximumdepthOfNAryTree.c">
+    <ClCompile Include="p559_MaximumDepthOfNAryTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p429_NAryTreeLevelOrderTraversal.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
