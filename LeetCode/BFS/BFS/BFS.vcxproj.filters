@@ -27,9 +27,6 @@
     <ClCompile Include="p854_KSimilarStrings.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottom.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -37,6 +34,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p429_NAryTreeLevelOrderTraversal.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottomII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="o32_III_PrintBinaryTreeFromTopToBottomIII.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

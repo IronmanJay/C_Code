@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\BFS"
   ],
+  "SelectedNode": "\\LeetCode\\BFS\\BFS.sln",
   "PreviewInSolutionExplorer": false
 }

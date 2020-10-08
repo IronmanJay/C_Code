@@ -118,7 +118,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottom.c" />
+    <ClCompile Include="o32_III_PrintBinaryTreeFromTopToBottomIII.c" />
+    <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottomII.c" />
     <ClCompile Include="p101_SymmetricTree.c" />
     <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c" />
     <ClCompile Include="p199_BinaryTreeRightSideView.c" />
