@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I1619_PondSizesLcci.c" />
     <ClCompile Include="o32_III_PrintBinaryTreeFromTopToBottomIII.c" />
     <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottomII.c" />
     <ClCompile Include="p101_SymmetricTree.c" />

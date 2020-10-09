@@ -42,5 +42,8 @@
     <ClCompile Include="o32_III_PrintBinaryTreeFromTopToBottomIII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1619_PondSizesLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
