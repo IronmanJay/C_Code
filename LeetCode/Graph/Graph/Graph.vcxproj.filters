@@ -30,5 +30,8 @@
     <ClCompile Include="p685_RedundantConnectionII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p207_CourseSchedule.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
