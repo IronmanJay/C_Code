@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I0401_RouteBetweenNodesLcci.c" />
     <ClCompile Include="p1042_FlowerPlantingWithNoAdjacent.c" />
     <ClCompile Include="p207_CourseSchedule.c" />
     <ClCompile Include="p210_CourseScheduleII.c" />
