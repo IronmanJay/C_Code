@@ -5,7 +5,7 @@
 
 #define nParam 3 /*这应该是传入参数，但是因为vs2017要求表达式必须含有常量值，所以作为示例赋值为2*/
 
-bool DFS(int** adj, int* adjColSize, int start, int target, bool* visited)
+bool I0401_RouteBetweenNodesLcci_DFS(int** adj, int* adjColSize, int start, int target, bool* visited)
 {
 	/*如果找到返回true*/
 	if (start == target)
@@ -24,7 +24,7 @@ bool DFS(int** adj, int* adjColSize, int start, int target, bool* visited)
 		/*在没使用过的情况下，深度优先搜索当前结点的后继结点*/
 		if (visited[adj[start][i]] == false)
 		{
-			if (DFS(adj, adjColSize, adj[start][i], target, visited))
+			if (I0401_RouteBetweenNodesLcci_DFS(adj, adjColSize, adj[start][i], target, visited))
 			{
 				return true;
 			}
@@ -62,7 +62,7 @@ bool findWhetherExistsPath(int n, int** graph, int graphSize, int* graphColSize,
 	bool visited[nParam];
 	memset(visited, 0, sizeof(visited));
 	/*开始深度优先搜索*/
-	bool res = DFS(adj, adjColSize, start, target, visited);
+	bool res = I0401_RouteBetweenNodesLcci_DFS(adj, adjColSize, start, target, visited);
 	/*释放空间*/
 	for (int i = 0; i < n; i++)
 	{

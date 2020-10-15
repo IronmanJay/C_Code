@@ -39,5 +39,8 @@
     <ClCompile Include="I0401_RouteBetweenNodesLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p133_CloneGraph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
