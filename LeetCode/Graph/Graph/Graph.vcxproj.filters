@@ -42,5 +42,8 @@
     <ClCompile Include="p133_CloneGraph.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p886_PossibleBipartition.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

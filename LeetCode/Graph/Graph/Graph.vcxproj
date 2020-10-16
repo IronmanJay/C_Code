@@ -123,6 +123,7 @@
     <ClCompile Include="p684_RedundantConnection.c" />
     <ClCompile Include="p685_RedundantConnectionII.c" />
     <ClCompile Include="p785_IsGraphBipartite.c" />
+    <ClCompile Include="p886_PossibleBipartition.c" />
     <ClCompile Include="p997_FindTheTownJudge.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
