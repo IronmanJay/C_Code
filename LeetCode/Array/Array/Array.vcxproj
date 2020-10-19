@@ -119,6 +119,7 @@
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c" />
     <ClCompile Include="p287_FindTheDuplicateNumber.c" />
     <ClCompile Include="p4_MedianOfTwoSortedArrays.c" />
+    <ClCompile Include="p867_TransposeMatrix.c" />
     <ClCompile Include="p88_MergeSortedArray.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
