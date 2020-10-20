@@ -121,6 +121,7 @@
     <ClCompile Include="p4_MedianOfTwoSortedArrays.c" />
     <ClCompile Include="p867_TransposeMatrix.c" />
     <ClCompile Include="p88_MergeSortedArray.c" />
+    <ClCompile Include="p977_SquaresOfASortedArray.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
