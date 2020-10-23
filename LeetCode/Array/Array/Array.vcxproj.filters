@@ -42,5 +42,8 @@
     <ClCompile Include="p73_SetMatrixZeroes.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p16_3SumClosest.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

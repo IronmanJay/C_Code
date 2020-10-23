@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p11_ContainerWithMostWater.c" />
+    <ClCompile Include="p16_3SumClosest.c" />
     <ClCompile Include="p209_MinimumSizeSubarraySum.c" />
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c" />
     <ClCompile Include="p287_FindTheDuplicateNumber.c" />
