@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I0202_KthNodeFromEndOfListLcc.c" />
+    <ClCompile Include="I0203_DeleteMiddleNodeLcci.c" />
     <ClCompile Include="p147_InsertionSortList.c" />
     <ClCompile Include="p148_SortList.c" />
     <ClCompile Include="p21_MergeTwoSortedLists.c" />
