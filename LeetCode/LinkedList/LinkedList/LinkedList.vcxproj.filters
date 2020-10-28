@@ -36,5 +36,8 @@
     <ClCompile Include="I0206_PalindromeLinkedListLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p92_ReverseLinkedListII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
