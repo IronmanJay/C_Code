@@ -39,5 +39,8 @@
     <ClCompile Include="p92_ReverseLinkedListII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p19_RemoveNthNodeFromEndOfList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
