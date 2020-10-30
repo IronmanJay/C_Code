@@ -18,7 +18,7 @@ void swap(int *a, int *b)
 }
 
 /*进行一次切分*/
-struct ListNode* partition(struct ListNode* head, struct ListNode* end)
+struct ListNode* p148_SortList_partition(struct ListNode* head, struct ListNode* end)
 {
 	if (head == end || head->next == end)
 	{
@@ -49,7 +49,7 @@ void quickSort(struct ListNode* head, struct ListNode* end)
 	{
 		return;
 	}
-	struct ListNode* mid = partition(head, end);
+	struct ListNode* mid = p148_SortList_partition(head, end);
 	quickSort(head, mid);
 	quickSort(mid->next, end);
 }
