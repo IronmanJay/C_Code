@@ -36,5 +36,8 @@
     <ClCompile Include="o10_I_FibonacciSequence.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o59_II_MaximumValueOfTheQueue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
