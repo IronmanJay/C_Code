@@ -120,6 +120,7 @@
     <ClCompile Include="o59_II_MaximumValueOfTheQueue.c" />
     <ClCompile Include="o59_I_SlidingWindowMaximum.c" />
     <ClCompile Include="p102_BinaryTreeLevelOrderTraversal.c" />
+    <ClCompile Include="p116_PopulatingNextRightPointersInEachNode.c" />
     <ClCompile Include="P622_DesignCircularQueue.c" />
     <ClCompile Include="p641_DesignCircularDeque.c" />
     <ClCompile Include="p933_NumberOfRecentCalls.c" />
