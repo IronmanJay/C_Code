@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I0404_CheckBalanceLcci.c" />
     <ClCompile Include="I0406_SuccessorLcci.c" />
     <ClCompile Include="p100_SameTree.c" />
     <ClCompile Include="p1028_RecoverATreeFromPreorderTraversal.c" />
