@@ -33,5 +33,8 @@
     <ClCompile Include="I0404_CheckBalanceLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p108_ConvertSortedArrayToBinarySearchTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

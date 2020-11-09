@@ -14,7 +14,7 @@ struct TreeNode
 /*全局变量，arrIndex总是指向当前节点在数组中的下一个位置*/
 int arrIndex;
 
-struct TreeNode* getTree(char *S, int depth)
+struct TreeNode* p1028_RecoverATreeFromPreorderTraversal_getTree(char *S, int depth)
 {
 	/*先获取上次的数组索引值，从这里开始*/
 	int begin = arrIndex;
@@ -49,7 +49,7 @@ struct TreeNode* getTree(char *S, int depth)
 	struct TreeNode* root = (struct TreeNode *)malloc(sizeof(struct TreeNode));
 	root->val = curValue;
 	/*因为题目要求尽量生成左子节点，所以先递归左子节点，同时深度+1*/
-	root->left = getTree(S, depth + 1);
+	root->left = p1028_RecoverATreeFromPreorderTraversal_getTree(S, depth + 1);
 	/*如果左子节点为空，那么右子节点也肯定为空，说明到了叶子节点*/
 	if (root->left == NULL)
 	{
@@ -58,7 +58,7 @@ struct TreeNode* getTree(char *S, int depth)
 	/*如果左子节点不为空，那么继续递归右子节点，同时深度+1*/
 	else
 	{
-		root->right = getTree(S, depth + 1);
+		root->right = p1028_RecoverATreeFromPreorderTraversal_getTree(S, depth + 1);
 	}
 	/*返回根节点即可*/
 	return root;
@@ -69,7 +69,7 @@ struct TreeNode* recoverFromPreorder(char *S)
 	/*初始化arrIndex的值*/
 	arrIndex = 0;
 	/*从深度为0开始遍历*/
-	return getTree(S, 0);
+	return p1028_RecoverATreeFromPreorderTraversal_getTree(S, 0);
 }
 
 /*主函数省略*/
