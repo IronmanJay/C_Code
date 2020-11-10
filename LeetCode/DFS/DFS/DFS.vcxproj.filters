@@ -36,5 +36,8 @@
     <ClCompile Include="p108_ConvertSortedArrayToBinarySearchTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p98_ValidateBinarySearchTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
