@@ -118,6 +118,7 @@
     <ClCompile Include="p1221_SplitAStringInBalancedStrings.c" />
     <ClCompile Include="p122_BestTimeToBuyAndSellStockII.c" />
     <ClCompile Include="p134_GasStation.c" />
+    <ClCompile Include="p1518_WaterBottles.c" />
     <ClCompile Include="p406_QueueReconstructionByHeight.c" />
     <ClCompile Include="p765_CouplesHoldingHands.c" />
   </ItemGroup>
