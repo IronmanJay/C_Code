@@ -33,5 +33,8 @@
     <ClCompile Include="p1518_WaterBottles.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p455_AssignCookies.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

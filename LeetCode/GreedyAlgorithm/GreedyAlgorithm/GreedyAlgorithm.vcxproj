@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p455_AssignCookies.c" />
     <ClCompile Include="p1221_SplitAStringInBalancedStrings.c" />
     <ClCompile Include="p122_BestTimeToBuyAndSellStockII.c" />
     <ClCompile Include="p134_GasStation.c" />
