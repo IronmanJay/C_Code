@@ -121,6 +121,7 @@
     <ClCompile Include="p134_GasStation.c" />
     <ClCompile Include="p1518_WaterBottles.c" />
     <ClCompile Include="p406_QueueReconstructionByHeight.c" />
+    <ClCompile Include="p55_JumpGame.c" />
     <ClCompile Include="p765_CouplesHoldingHands.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
