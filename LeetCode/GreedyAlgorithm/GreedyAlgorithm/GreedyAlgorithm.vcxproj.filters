@@ -39,5 +39,8 @@
     <ClCompile Include="p55_JumpGame.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p452_MinimumNumberOfArrowsToBurstBalloons.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
