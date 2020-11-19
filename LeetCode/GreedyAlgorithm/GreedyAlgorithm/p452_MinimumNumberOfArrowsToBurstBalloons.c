@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdbool.h>
 
-/*自定义排序，按照最后一个元素从小到大排序*/
+/*自定义排序，按照二维数组最后一个元素从小到大排序*/
 int compare_p452_MinimumNumberOfArrowsToBurstBalloons(const void *a, const void *b)
 {
 	/*a>b返回正值，升序排列，从小到大*/
