@@ -121,6 +121,7 @@
     <ClCompile Include="p347_TopKFrequentElements.c" />
     <ClCompile Include="p36_ValidSudoku.c" />
     <ClCompile Include="p49_GroupAnagrams.c" />
+    <ClCompile Include="p645_SetMismatch.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

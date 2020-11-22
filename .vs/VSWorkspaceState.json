@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\HashTable"
   ],
+  "SelectedNode": "\\LeetCode\\HashTable\\HashTable.sln",
   "PreviewInSolutionExplorer": false
 }
