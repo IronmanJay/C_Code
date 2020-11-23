@@ -33,5 +33,8 @@
     <ClCompile Include="p645_SetMismatch.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p349_IntersectionOfTwoArrays.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
