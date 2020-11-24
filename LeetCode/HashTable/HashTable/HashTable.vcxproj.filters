@@ -36,5 +36,8 @@
     <ClCompile Include="p349_IntersectionOfTwoArrays.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p451_SortCharactersByFrequency.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
