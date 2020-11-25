@@ -116,6 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I1624_PairsWithSumLcci.c" />
     <ClCompile Include="p202_HappyNumber.c" />
     <ClCompile Include="p217_ContainsDuplicate.c" />
     <ClCompile Include="p347_TopKFrequentElements.c" />
