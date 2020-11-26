@@ -122,6 +122,7 @@
     <ClCompile Include="p347_TopKFrequentElements.c" />
     <ClCompile Include="p349_IntersectionOfTwoArrays.c" />
     <ClCompile Include="p36_ValidSudoku.c" />
+    <ClCompile Include="p380_InsertDeleteGetrandomO1.c" />
     <ClCompile Include="p451_SortCharactersByFrequency.c" />
     <ClCompile Include="p49_GroupAnagrams.c" />
     <ClCompile Include="p645_SetMismatch.c" />
