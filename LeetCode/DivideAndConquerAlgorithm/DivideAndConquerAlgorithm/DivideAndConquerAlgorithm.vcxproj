@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="I1710_FindMajorityElementLcci.c" />
     <ClCompile Include="I1714_SmallestKLcci.c" />
+    <ClCompile Include="o25_MergeTwoSortedLinkedLists.c" />
     <ClCompile Include="p169_MajorityElement.c" />
     <ClCompile Include="p240_SearchA2dMatrixII.c" />
     <ClCompile Include="p932_BeautifulArray.c" />

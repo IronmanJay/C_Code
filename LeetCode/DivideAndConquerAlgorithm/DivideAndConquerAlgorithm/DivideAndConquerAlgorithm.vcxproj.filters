@@ -30,5 +30,8 @@
     <ClCompile Include="p240_SearchA2dMatrixII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o25_MergeTwoSortedLinkedLists.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
