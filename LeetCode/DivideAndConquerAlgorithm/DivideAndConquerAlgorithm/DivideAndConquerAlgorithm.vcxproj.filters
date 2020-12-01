@@ -33,5 +33,8 @@
     <ClCompile Include="o25_MergeTwoSortedLinkedLists.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o40_TheSmallestNumberOfK.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
