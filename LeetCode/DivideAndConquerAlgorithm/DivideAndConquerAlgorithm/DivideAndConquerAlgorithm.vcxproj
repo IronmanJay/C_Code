@@ -121,6 +121,7 @@
     <ClCompile Include="o40_TheSmallestNumberOfK.c" />
     <ClCompile Include="p169_MajorityElement.c" />
     <ClCompile Include="p240_SearchA2dMatrixII.c" />
+    <ClCompile Include="p395_LongestSubstringWithAtLeastKRepeatingCharacters.c" />
     <ClCompile Include="p932_BeautifulArray.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
