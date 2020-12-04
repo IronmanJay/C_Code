@@ -42,5 +42,8 @@
     <ClCompile Include="p241_DifferentWaysToAddParentheses.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o36_BinarySearchTreeAndDoublyLinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
