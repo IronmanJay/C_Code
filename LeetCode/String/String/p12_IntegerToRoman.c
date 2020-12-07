@@ -7,6 +7,8 @@ char * intToRoman(int num)
 {
 	// 开辟结果数组空间
 	char *res = (char *)malloc(20 * sizeof(char));
+	/*LeetCode的gcc版本问题，避免缓存越界*/
+	memset(res, 0, sizeof(char) * 20);
 	// 罗马数字对应的数字值
 	int value[13] = { 1000,900,500,400,100,90,50,40,10,9,5,4,1 };
 	// 数字对应罗马数字的值
