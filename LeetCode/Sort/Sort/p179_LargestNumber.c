@@ -28,7 +28,7 @@ char * largestNumber(int* nums, int numsSize)
 	{
 		return "0";
 	}
-	/*这个p是result的指针，用于每次变换指针的位置，将数组写入到结果数组对应的位置，也就是p指针指向result得位置，当前数字是几位就+几位，最终将int类型的数组填充到字符串中*/
+	/*这个p是result的指针，用于每次变换指针的位置，将数组写入到结果数组对应的位置，也就是p指针指向result的位置，当前数字是几位就+几位，最终将int类型的数组填充到字符串中*/
 	char *p = result;
 	for (int i = 0; i < numsSize; i++)
 	{
