@@ -5,7 +5,7 @@
 
 int* relativeSortArray(int* arr1, int arr1Size, int* arr2, int arr2Size, int* returnSize)
 {
-	/*因为一共最多1000个数，因为下面不是从0开始，所以定义数组长度位1001*/
+	/*因为一共最多1000个数，所以定义数组长度为1001*/
 	int nums[1001] = { 0 };
 	int numsLen = sizeof(nums) / sizeof(int);
 	/*定义结果数组，和arr1一样长度*/
