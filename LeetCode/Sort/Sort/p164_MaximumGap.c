@@ -17,7 +17,7 @@ int GetNumInPos(int num, int pos)
 	return (num / temp) % 10;
 }
 
-/*基数排序，不做注释，具体参考BigTalkDataStructure/Sort/RadixSort.c*/
+/*基数排序，不做注释，具体参考C_Code/BigTalkDataStructure/Sort/RadixSort.c*/
 void RadixSort(int* nums, int numsLen)
 {
 	int *radixArr[RADIX];
