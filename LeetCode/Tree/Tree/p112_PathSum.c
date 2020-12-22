@@ -25,3 +25,5 @@ bool hasPathSum(struct TreeNode* root, int sum)
 	/*分别向左右子树递归，找到一条路径即可*/
 	return hasPathSum(root->left, sum - root->val) || hasPathSum(root->right, sum - root->val);
 }
+
+/*主函数省略*/

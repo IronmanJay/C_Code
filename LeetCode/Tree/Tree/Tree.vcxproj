@@ -118,6 +118,7 @@
     <ClCompile Include="o55_I_DepthOfBinaryTree.c" />
     <ClCompile Include="p110_BalancedBinaryTree.c" />
     <ClCompile Include="p112_PathSum.c" />
+    <ClCompile Include="p113_PathSumII.c" />
     <ClCompile Include="p94_BinaryTreeInorderTraversal.c" />
     <ClCompile Include="p96_UniqueBinarySearchTrees.c" />
   </ItemGroup>
