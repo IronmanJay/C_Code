@@ -13,7 +13,7 @@ struct TreeNode
 /*结果数组索引，一定要写成全局变量，因为递归时这个索引不能回溯，要一直往前走*/
 int resIndex;
 
-void getRes(struct TreeNode* root, int sum, int** res, int* path, int pathIndex, int* returnColumn)
+void p113_PathSumII_getRes(struct TreeNode* root, int sum, int** res, int* path, int pathIndex, int* returnColumn)
 {
 
 	/*递归跳出条件，到了叶子节点还没有满足条件的直接返回*/
@@ -34,9 +34,9 @@ void getRes(struct TreeNode* root, int sum, int** res, int* path, int pathIndex,
 		resIndex++;
 	}
 	/*向左子树递归*/
-	getRes(root->left, sum - root->val, res, path, pathIndex, returnColumn);
+	p113_PathSumII_getRes(root->left, sum - root->val, res, path, pathIndex, returnColumn);
 	/*向右子树递归*/
-	getRes(root->right, sum - root->val, res, path, pathIndex, returnColumn);
+	p113_PathSumII_getRes(root->right, sum - root->val, res, path, pathIndex, returnColumn);
 	/*回溯，向父结点的下一个结点继续递归*/
 	pathIndex--;
 }
@@ -54,7 +54,7 @@ int** pathSum(struct TreeNode* root, int sum, int* returnSize, int** returnColum
 	/*结果数组每一行索引*/
 	int* returnColumn = (int*)malloc(sizeof(int) * 2001);
 	/*开始递归*/
-	getRes(root, sum, res, path, pathIndex, returnColumn);
+	p113_PathSumII_getRes(root, sum, res, path, pathIndex, returnColumn);
 	/*结果数组每一行的长度*/
 	*returnColumnSizes = returnColumn;
 	/*结果数组的长度*/

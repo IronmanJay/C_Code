@@ -33,5 +33,8 @@
     <ClCompile Include="p113_PathSumII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p129_SumRootToLeafNumbers.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
