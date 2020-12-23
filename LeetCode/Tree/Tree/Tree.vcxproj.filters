@@ -36,5 +36,8 @@
     <ClCompile Include="p129_SumRootToLeafNumbers.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p257_BinaryTreePaths.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
