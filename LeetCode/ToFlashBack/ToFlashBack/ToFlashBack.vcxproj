@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p131_PalindromePartitioning.c" />
     <ClCompile Include="p216_CombinationSumIII.c" />
+    <ClCompile Include="p22_GenerateParentheses.c" />
     <ClCompile Include="p39_CombinationSum.c" />
     <ClCompile Include="p40_CombinationSumII.c" />
     <ClCompile Include="p46_Permutations.c" />

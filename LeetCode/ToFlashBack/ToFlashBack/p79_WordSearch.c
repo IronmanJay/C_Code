@@ -82,3 +82,5 @@ bool exist(char** board, int boardSize, int* boardColSize, char * word)
 	/*一条满足条件的路径都没找到返回false*/
 	return false;
 }
+
+/*主函数省略*/
