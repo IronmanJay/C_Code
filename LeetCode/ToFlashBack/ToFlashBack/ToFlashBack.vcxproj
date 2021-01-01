@@ -116,6 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p131_PalindromePartitioning.c" />
+    <ClCompile Include="p200_NumberOfIslands.c" />
+    <ClCompile Include="p212_WordSearchII.c" />
     <ClCompile Include="p216_CombinationSumIII.c" />
     <ClCompile Include="p22_GenerateParentheses.c" />
     <ClCompile Include="p39_CombinationSum.c" />
