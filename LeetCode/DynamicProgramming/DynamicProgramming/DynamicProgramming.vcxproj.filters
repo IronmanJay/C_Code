@@ -33,5 +33,11 @@
     <ClCompile Include="p120_Triangle.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p53_MaximumSubarray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p300_LongestIncreasingSubsequence.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

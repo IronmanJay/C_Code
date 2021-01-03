@@ -12,7 +12,7 @@ int I1617_ContiguousSequenceLcci_Max(int x, int y)
 	return y;
 }
 
-int maxSubArray(int* nums, int numsSize)
+int I1617_ContiguousSequenceLcci_Max_maxSubArray(int* nums, int numsSize)
 {
 	/*ÅÐ¿Õ·µ»Ø0*/
 	if (numsSize == 0)

@@ -74,7 +74,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
   </ItemDefinitionGroup>
@@ -119,7 +119,9 @@
     <ClCompile Include="p120_Triangle.c" />
     <ClCompile Include="p198_HouseRobber.c" />
     <ClCompile Include="p279_PerfectSquares.c" />
+    <ClCompile Include="p300_LongestIncreasingSubsequence.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
+    <ClCompile Include="p53_MaximumSubarray.c" />
     <ClCompile Include="p64_MinimumPathSum.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
