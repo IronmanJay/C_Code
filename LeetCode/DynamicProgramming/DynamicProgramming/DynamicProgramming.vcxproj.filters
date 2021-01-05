@@ -39,5 +39,11 @@
     <ClCompile Include="p300_LongestIncreasingSubsequence.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p62_UniquePaths.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p63_UniquePathsII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
