@@ -21,9 +21,6 @@
     <ClCompile Include="o59_I_SlidingWindowMaximum.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="P622_DesignCircularQueue.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="I1709_GetKthMagicNumberLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -43,6 +40,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p116_PopulatingNextRightPointersInEachNode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p622_DesignCircularQueue.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
