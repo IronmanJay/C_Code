@@ -46,7 +46,7 @@ int* largestValues(struct TreeNode* root, int* returnSize)
 	{
 		return NULL;
 	}
-	/*掉用函数开始递归，这里level代表层数，从0层开始和数组开始位置一样，注意，每一层只留一个元素*/
+	/*调用函数开始递归，这里level代表层数，从0层开始和数组开始位置一样，注意，每一层只留一个元素*/
 	getMaxValue(root, res, 0, returnSize);
 	/*返回结果*/
 	return res;
