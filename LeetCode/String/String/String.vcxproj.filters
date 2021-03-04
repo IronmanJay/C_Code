@@ -27,9 +27,6 @@
     <ClCompile Include="p93_RestoreIpAddresses.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p155_DistinctSubsequences.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="p67_AddBinary.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -43,6 +40,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p125_ValidPalindrome.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p115_DistinctSubsequences.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

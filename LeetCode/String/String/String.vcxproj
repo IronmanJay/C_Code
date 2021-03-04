@@ -117,7 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p125_ValidPalindrome.c" />
     <ClCompile Include="p12_IntegerToRoman.c" />
-    <ClCompile Include="p155_DistinctSubsequences.c" />
+    <ClCompile Include="p115_DistinctSubsequences.c" />
     <ClCompile Include="p28_ImplementStrstr.c" />
     <ClCompile Include="p3_LongestSubstringWithoutRepeatingCharacters.c" />
     <ClCompile Include="p520_DetectCapital.c" />
