@@ -9,7 +9,7 @@ struct ListNode
 struct ListNode* deleteDuplicates(struct ListNode* head)
 {
 	if (head == NULL)
-	{
+	{,ma
 		return head;
 	}
 	struct ListNode* p = head;
