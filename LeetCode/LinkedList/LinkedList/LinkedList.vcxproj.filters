@@ -45,5 +45,8 @@
     <ClCompile Include="p86_PartitionList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
