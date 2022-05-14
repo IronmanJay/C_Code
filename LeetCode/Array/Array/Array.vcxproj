@@ -119,6 +119,7 @@
     <ClCompile Include="p16_3SumClosest.c" />
     <ClCompile Include="p209_MinimumSizeSubarraySum.c" />
     <ClCompile Include="p26_RemoveDuplicatesFromSortedArray.c" />
+    <ClCompile Include="p27_RemoveElement.c" />
     <ClCompile Include="p287_FindTheDuplicateNumber.c" />
     <ClCompile Include="p4_MedianOfTwoSortedArrays.c" />
     <ClCompile Include="p73_SetMatrixZeroes.c" />
