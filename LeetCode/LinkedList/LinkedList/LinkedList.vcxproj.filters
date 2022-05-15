@@ -48,5 +48,8 @@
     <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p206_ReverseLinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
