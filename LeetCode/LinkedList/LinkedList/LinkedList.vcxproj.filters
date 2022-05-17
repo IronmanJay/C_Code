@@ -51,5 +51,8 @@
     <ClCompile Include="p206_ReverseLinkedList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p203_RemoveLinkedListElements.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

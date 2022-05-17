@@ -127,6 +127,7 @@
     <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c" />
     <ClCompile Include="p86_PartitionList.c" />
     <ClCompile Include="p92_ReverseLinkedListII.c" />
+    <ClCompile Include="p203_RemoveLinkedListElements.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
