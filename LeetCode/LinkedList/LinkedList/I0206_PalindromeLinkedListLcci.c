@@ -9,7 +9,7 @@ struct ListNode
 	struct ListNode *next;
 };
 
-bool isPalindrome(struct ListNode* head)
+bool I0206_PalindromeLinkedListLcci_isPalindrome(struct ListNode* head)
 {
 	/*ÅÐ¿Õ·µ»Ø*/
 	if (head == NULL)

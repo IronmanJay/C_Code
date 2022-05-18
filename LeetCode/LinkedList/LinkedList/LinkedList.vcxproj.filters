@@ -54,5 +54,8 @@
     <ClCompile Include="p203_RemoveLinkedListElements.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p234_PalindromicLinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
