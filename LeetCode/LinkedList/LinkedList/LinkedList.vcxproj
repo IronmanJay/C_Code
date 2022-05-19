@@ -120,6 +120,7 @@
     <ClCompile Include="I0206_PalindromeLinkedListLcci.c" />
     <ClCompile Include="p147_InsertionSortList.c" />
     <ClCompile Include="p148_SortList.c" />
+    <ClCompile Include="p160_IntersectingLinkedLists.c" />
     <ClCompile Include="p19_RemoveNthNodeFromEndOfList.c" />
     <ClCompile Include="p206_ReverseLinkedList.c" />
     <ClCompile Include="p21_MergeTwoSortedLists.c" />
