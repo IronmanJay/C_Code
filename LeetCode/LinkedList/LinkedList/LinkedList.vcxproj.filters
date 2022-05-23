@@ -60,5 +60,8 @@
     <ClCompile Include="p160_IntersectingLinkedLists.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p2_AddTwoNumbers.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

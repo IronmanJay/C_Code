@@ -126,6 +126,7 @@
     <ClCompile Include="p21_MergeTwoSortedLists.c" />
     <ClCompile Include="p234_PalindromicLinkedList.c" />
     <ClCompile Include="p25_ReverseNodesInKGroup.c" />
+    <ClCompile Include="p2_AddTwoNumbers.c" />
     <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c" />
     <ClCompile Include="p86_PartitionList.c" />
     <ClCompile Include="p92_ReverseLinkedListII.c" />
