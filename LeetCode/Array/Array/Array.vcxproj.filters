@@ -51,5 +51,8 @@
     <ClCompile Include="p66_PlusOne.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p35_SearchCaretPosition.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
