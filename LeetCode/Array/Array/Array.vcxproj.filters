@@ -54,5 +54,8 @@
     <ClCompile Include="p35_SearchCaretPosition.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p48_RotateTheImage.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
