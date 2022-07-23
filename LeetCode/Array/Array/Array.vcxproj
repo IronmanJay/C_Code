@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p121_TheBestTimeToBuyAndSellStocks.c" />
     <ClCompile Include="p11_ContainerWithMostWater.c" />
     <ClCompile Include="p16_3SumClosest.c" />
     <ClCompile Include="p209_MinimumSizeSubarraySum.c" />
