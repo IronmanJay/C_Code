@@ -15,7 +15,7 @@ int missingNumber(int* nums, int numsSize)
 			return i;
 		}
 	}
-	return NULL;
+	return 0;
 }
 
 /*Ö÷º¯ÊıÊ¡ÂÔ*/
