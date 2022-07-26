@@ -121,6 +121,7 @@
     <ClCompile Include="p112_PathSum.c" />
     <ClCompile Include="p113_PathSumII.c" />
     <ClCompile Include="p129_SumRootToLeafNumbers.c" />
+    <ClCompile Include="p404_SumOfLeftLeaves.c" />
     <ClCompile Include="p94_BinaryTreeInorderTraversal.c" />
     <ClCompile Include="p96_UniqueBinarySearchTrees.c" />
   </ItemGroup>

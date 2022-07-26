@@ -39,5 +39,8 @@
     <ClCompile Include="p257_BinaryTreePaths.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p404_SumOfLeftLeaves.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

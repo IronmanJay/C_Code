@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\Array",
+    "\\LeetCode\\Array\\Array"
   ],
+  "SelectedNode": "\\LeetCode\\Array\\Array.sln",
   "PreviewInSolutionExplorer": false
 }
