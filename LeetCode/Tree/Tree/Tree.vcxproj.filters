@@ -42,5 +42,8 @@
     <ClCompile Include="p404_SumOfLeftLeaves.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p872_TreesWithSimilarLeaves.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
