@@ -51,5 +51,8 @@
     <ClCompile Include="p230_TheKthSmallestElementInABinarySearchTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p654_MaximumBinaryTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

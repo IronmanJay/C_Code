@@ -124,6 +124,7 @@
     <ClCompile Include="p129_SumRootToLeafNumbers.c" />
     <ClCompile Include="p404_SumOfLeftLeaves.c" />
     <ClCompile Include="p637_LevelAverageOfBinaryTrees.c" />
+    <ClCompile Include="p654_MaximumBinaryTree.c" />
     <ClCompile Include="p872_TreesWithSimilarLeaves.c" />
     <ClCompile Include="p94_BinaryTreeInorderTraversal.c" />
     <ClCompile Include="p96_UniqueBinarySearchTrees.c" />
