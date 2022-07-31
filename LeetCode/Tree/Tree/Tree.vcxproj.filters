@@ -54,5 +54,8 @@
     <ClCompile Include="p654_MaximumBinaryTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p103_ZigzagOrderTraversalOfBinaryTrees.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
