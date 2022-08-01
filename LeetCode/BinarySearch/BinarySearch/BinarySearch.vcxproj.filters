@@ -42,5 +42,8 @@
     <ClCompile Include="I1009_SortedMatrixSearchLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p704_BinarySearch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

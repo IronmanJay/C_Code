@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int search(int* nums, int numsSize, int target)
+int p33_SearchInRotatedSortedArray_search(int* nums, int numsSize, int target)
 {
 	int left = 0;
 	int right = numsSize - 1;
