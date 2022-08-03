@@ -48,5 +48,8 @@
     <ClCompile Include="p374_GuessTheSizeOfTheNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p540_SingleElementInSortedArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
