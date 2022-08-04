@@ -51,5 +51,8 @@
     <ClCompile Include="p540_SingleElementInSortedArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p34_FindTheFirstAndLastPositionOfAnElementInASortedArray.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
