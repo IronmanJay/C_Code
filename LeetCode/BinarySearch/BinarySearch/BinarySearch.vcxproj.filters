@@ -54,7 +54,7 @@
     <ClCompile Include="p34_FindTheFirstAndLastPositionOfAnElementInASortedArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p69_SquareRootOfX.cpp">
+    <ClCompile Include="p69_SquareRootOfX.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
