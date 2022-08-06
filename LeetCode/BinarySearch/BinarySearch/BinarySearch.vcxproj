@@ -118,6 +118,7 @@
     <ClCompile Include="I1009_SortedMatrixSearchLcci.c" />
     <ClCompile Include="o53_II_MissingNumbersOf0ToNLess1.c" />
     <ClCompile Include="p1095_FindInMountainArray.c" />
+    <ClCompile Include="p153_FindTheMinimumValueInARotatedSortedArray.c" />
     <ClCompile Include="p162_FindPeakElement.c" />
     <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c" />
     <ClCompile Include="p33_SearchInRotatedSortedArray.c" />
