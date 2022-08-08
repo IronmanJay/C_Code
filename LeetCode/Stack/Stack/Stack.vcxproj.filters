@@ -45,5 +45,8 @@
     <ClCompile Include="p173_BinarySearchTreeIterator.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p225_ImplementingStacksWithQueues.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
