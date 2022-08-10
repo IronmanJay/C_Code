@@ -126,6 +126,7 @@
     <ClCompile Include="p225_ImplementingStacksWithQueues.c" />
     <ClCompile Include="p232_ImplementQueueUsingStacks.c" />
     <ClCompile Include="p682_BaseballGame.c" />
+    <ClCompile Include="p844_CompareStringsWithBackspaces.c" />
     <ClCompile Include="p856_ScoreOfParentheses.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

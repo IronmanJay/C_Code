@@ -51,5 +51,8 @@
     <ClCompile Include="p682_BaseballGame.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p844_CompareStringsWithBackspaces.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
