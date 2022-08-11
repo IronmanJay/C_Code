@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\LeetCode",
-    "\\LeetCode\\Stack"
+    "\\LeetCode\\Stack",
+    "\\LeetCode\\Stack\\Stack"
   ],
+  "SelectedNode": "\\LeetCode\\Stack\\Stack\\p1047_RemoveAllAdjacentDuplicatesInString.c",
   "PreviewInSolutionExplorer": false
 }
