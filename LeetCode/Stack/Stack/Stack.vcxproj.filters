@@ -57,5 +57,8 @@
     <ClCompile Include="p316_RemoveDuplicateLetters.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p445_AddingTwoNumbersII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
