@@ -126,6 +126,7 @@
     <ClCompile Include="p225_ImplementingStacksWithQueues.c" />
     <ClCompile Include="p232_ImplementQueueUsingStacks.c" />
     <ClCompile Include="p316_RemoveDuplicateLetters.c" />
+    <ClCompile Include="p402_RemoveKDigits.c" />
     <ClCompile Include="p445_AddingTwoNumbersII.c" />
     <ClCompile Include="p682_BaseballGame.c" />
     <ClCompile Include="p844_CompareStringsWithBackspaces.c" />
