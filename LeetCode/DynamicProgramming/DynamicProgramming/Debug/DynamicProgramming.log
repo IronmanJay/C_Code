@@ -1,3 +1,7 @@
-﻿  p63_UniquePathsII.c
+﻿  p300_LongestIncreasingSubsequence.c
+  p62_UniquePaths.c
+  p63_UniquePathsII.c
 d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p63_uniquepathsii.c(12): warning C4047: “初始化”:“int **”与“int *”的间接级别不同
+  p70_ClimbingStairs.c
+  正在生成代码...
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
