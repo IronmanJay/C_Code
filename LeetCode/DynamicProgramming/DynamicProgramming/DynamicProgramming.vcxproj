@@ -119,6 +119,7 @@
     <ClCompile Include="I1716_TheMasseuseLcci.c" />
     <ClCompile Include="p120_Triangle.c" />
     <ClCompile Include="p198_HouseRobber.c" />
+    <ClCompile Include="p213_RobberyII.c" />
     <ClCompile Include="p279_PerfectSquares.c" />
     <ClCompile Include="p300_LongestIncreasingSubsequence.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
