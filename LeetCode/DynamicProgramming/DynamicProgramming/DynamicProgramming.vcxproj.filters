@@ -54,5 +54,8 @@
     <ClCompile Include="p213_RobberyII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p221_MaximalSquare.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

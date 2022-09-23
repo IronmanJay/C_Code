@@ -1,4 +1,4 @@
-﻿  p213_RobberyII.c
-d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p213_robberyii.c(4): warning C4005: “max”: 宏重定义
-  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+﻿  p221_MaximalSquare.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
