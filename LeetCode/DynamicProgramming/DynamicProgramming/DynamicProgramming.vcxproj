@@ -124,6 +124,7 @@
     <ClCompile Include="p279_PerfectSquares.c" />
     <ClCompile Include="p300_LongestIncreasingSubsequence.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
+    <ClCompile Include="p45_JumpGameII.c" />
     <ClCompile Include="p53_MaximumSubarray.c" />
     <ClCompile Include="p62_UniquePaths.c" />
     <ClCompile Include="p63_UniquePathsII.c" />

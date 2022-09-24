@@ -1,4 +1,2 @@
-﻿  p221_MaximalSquare.c
-d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+﻿  p45_JumpGameII.c
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
