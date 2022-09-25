@@ -1,2 +1,6 @@
-﻿  p45_JumpGameII.c
+﻿  p42_TrappingRainWater.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p42_trappingrainwater.c(4): warning C4005: “max”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p42_trappingrainwater.c(5): warning C4005: “min”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1290): note: 参见“min”的前一个定义
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
