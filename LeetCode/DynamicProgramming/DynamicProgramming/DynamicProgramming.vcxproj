@@ -123,7 +123,6 @@
     <ClCompile Include="p221_MaximalSquare.c" />
     <ClCompile Include="p279_PerfectSquares.c" />
     <ClCompile Include="p300_LongestIncreasingSubsequence.c" />
-    <ClCompile Include="p387_FirstUniqueCharacterInAString.c" />
     <ClCompile Include="p416_PartitionEqualSubsetSum.c" />
     <ClCompile Include="p42_TrappingRainWater.c" />
     <ClCompile Include="p45_JumpGameII.c" />

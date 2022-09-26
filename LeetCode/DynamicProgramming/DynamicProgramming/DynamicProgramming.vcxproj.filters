@@ -63,8 +63,5 @@
     <ClCompile Include="p42_TrappingRainWater.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="p387_FirstUniqueCharacterInAString.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
