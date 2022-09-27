@@ -124,6 +124,7 @@
     <ClCompile Include="p36_ValidSudoku.c" />
     <ClCompile Include="p380_InsertDeleteGetrandomO1.c" />
     <ClCompile Include="p387_FirstUniqueCharacterInAString.c" />
+    <ClCompile Include="p448_FindAllNumbersDisappearedInAnArray.c" />
     <ClCompile Include="p451_SortCharactersByFrequency.c" />
     <ClCompile Include="p49_GroupAnagrams.c" />
     <ClCompile Include="p645_SetMismatch.c" />
