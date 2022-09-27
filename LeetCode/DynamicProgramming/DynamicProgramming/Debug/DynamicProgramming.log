@@ -1,3 +1,2 @@
-﻿  p387_FirstUniqueCharacterInAString.c
-d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p387_firstuniquecharacterinastring.c(6): warning C4013: “strlen”未定义；假设外部返回 int
+﻿  p448_FindAllNumbersDisappearedInAnArray.c
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
