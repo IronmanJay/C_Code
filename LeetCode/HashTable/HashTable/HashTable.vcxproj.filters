@@ -51,5 +51,8 @@
     <ClCompile Include="p448_FindAllNumbersDisappearedInAnArray.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p383_RansomNote.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
