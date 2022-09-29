@@ -54,5 +54,8 @@
     <ClCompile Include="p383_RansomNote.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p299_BullsAndCows.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
