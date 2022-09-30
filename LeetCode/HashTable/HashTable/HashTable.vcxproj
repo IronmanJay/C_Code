@@ -126,6 +126,7 @@
     <ClCompile Include="p380_InsertDeleteGetrandomO1.c" />
     <ClCompile Include="p383_RansomNote.c" />
     <ClCompile Include="p387_FirstUniqueCharacterInAString.c" />
+    <ClCompile Include="p424_LongestRepeatingCharacterReplacement.c" />
     <ClCompile Include="p448_FindAllNumbersDisappearedInAnArray.c" />
     <ClCompile Include="p451_SortCharactersByFrequency.c" />
     <ClCompile Include="p49_GroupAnagrams.c" />
