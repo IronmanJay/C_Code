@@ -132,6 +132,9 @@
     <ClCompile Include="p49_GroupAnagrams.c" />
     <ClCompile Include="p645_SetMismatch.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="p389_FindTheDifference.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
