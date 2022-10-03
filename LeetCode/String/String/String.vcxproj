@@ -122,6 +122,7 @@
     <ClCompile Include="p3_LongestSubstringWithoutRepeatingCharacters.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
+    <ClCompile Include="p58_LengthOfLastWord.c" />
     <ClCompile Include="p647_PalindromicSubstrings.c" />
     <ClCompile Include="p67_AddBinary.c" />
     <ClCompile Include="p93_RestoreIpAddresses.c" />
