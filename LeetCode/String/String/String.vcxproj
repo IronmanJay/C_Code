@@ -119,6 +119,7 @@
     <ClCompile Include="p12_IntegerToRoman.c" />
     <ClCompile Include="p115_DistinctSubsequences.c" />
     <ClCompile Include="p28_ImplementStrstr.c" />
+    <ClCompile Include="p392_JudgeSubsequence.c" />
     <ClCompile Include="p3_LongestSubstringWithoutRepeatingCharacters.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
