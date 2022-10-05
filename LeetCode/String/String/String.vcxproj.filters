@@ -51,5 +51,8 @@
     <ClCompile Include="p392_JudgeSubsequence.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p409_LongestPalindrome.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
