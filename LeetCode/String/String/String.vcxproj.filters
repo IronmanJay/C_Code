@@ -54,5 +54,8 @@
     <ClCompile Include="p409_LongestPalindrome.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p139_WordBreak.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
