@@ -126,6 +126,7 @@
     <ClCompile Include="p344_ReverseString.c" />
     <ClCompile Include="p345_ReverseVowelsOfAString.c" />
     <ClCompile Include="p541_ReverseStringII.c" />
+    <ClCompile Include="p80_RemoveDuplicatesFromSortedArrayII.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
