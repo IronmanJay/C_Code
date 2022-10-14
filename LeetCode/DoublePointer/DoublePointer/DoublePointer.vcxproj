@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p143_ReorderList.c" />
     <ClCompile Include="p344_ReverseString.c" />
     <ClCompile Include="p345_ReverseVowelsOfAString.c" />
     <ClCompile Include="p541_ReverseStringII.c" />
