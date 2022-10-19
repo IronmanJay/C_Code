@@ -126,6 +126,7 @@
     <ClCompile Include="p463_IslandPerimeter.c" />
     <ClCompile Include="p515_FindLargestValueInEachTreeRow.c" />
     <ClCompile Include="p114_FlattenBinaryTreeToLinkedList.c" />
+    <ClCompile Include="p563_BinaryTreeTilt.c" />
     <ClCompile Include="p98_ValidateBinarySearchTree.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
