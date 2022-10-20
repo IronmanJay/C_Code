@@ -54,5 +54,8 @@
     <ClCompile Include="p563_BinaryTreeTilt.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p99_RecoverBinarySearchTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

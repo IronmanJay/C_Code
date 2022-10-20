@@ -128,6 +128,7 @@
     <ClCompile Include="p114_FlattenBinaryTreeToLinkedList.c" />
     <ClCompile Include="p563_BinaryTreeTilt.c" />
     <ClCompile Include="p98_ValidateBinarySearchTree.c" />
+    <ClCompile Include="p99_RecoverBinarySearchTree.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
