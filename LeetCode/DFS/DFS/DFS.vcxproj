@@ -122,6 +122,7 @@
     <ClCompile Include="p106_ConstructBinaryTreeFromInorderAndPostorderTraversal.c" />
     <ClCompile Include="p108_ConvertSortedArrayToBinarySearchTree.c" />
     <ClCompile Include="p111_MinimumDepthOfBinaryTree.c" />
+    <ClCompile Include="p124_BinaryTreeMaximumPathSum.c" />
     <ClCompile Include="p226_InvertBinaryTree.c" />
     <ClCompile Include="p236_LowestCommonAncestorOfABinaryTree.c" />
     <ClCompile Include="p463_IslandPerimeter.c" />

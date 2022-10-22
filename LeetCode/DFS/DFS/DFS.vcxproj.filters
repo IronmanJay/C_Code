@@ -60,5 +60,8 @@
     <ClCompile Include="p236_LowestCommonAncestorOfABinaryTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p124_BinaryTreeMaximumPathSum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
