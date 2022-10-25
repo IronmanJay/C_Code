@@ -129,6 +129,7 @@
     <ClCompile Include="p513_FindBottomLeftTreeValue.c" />
     <ClCompile Include="p559_MaximumDepthOfNAryTree.c" />
     <ClCompile Include="p854_KSimilarStrings.c" />
+    <ClCompile Include="p965_UnivaluedBinaryTree.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
