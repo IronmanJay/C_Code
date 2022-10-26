@@ -51,5 +51,8 @@
     <ClCompile Include="p965_UnivaluedBinaryTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="l44_OpeningCeremonyFireworks.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

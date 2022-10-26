@@ -119,6 +119,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I1619_PondSizesLcci.c" />
+    <ClCompile Include="l44_OpeningCeremonyFireworks.c" />
     <ClCompile Include="o27_ImageOfBinaryTree.c" />
     <ClCompile Include="o32_III_PrintBinaryTreeFromTopToBottomIII.c" />
     <ClCompile Include="o32_II_PrintBinaryTreeFromTopToBottomII.c" />
