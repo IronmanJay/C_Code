@@ -54,5 +54,8 @@
     <ClCompile Include="l44_OpeningCeremonyFireworks.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p117_PopulatingNextRightPointersInEachNodeII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
