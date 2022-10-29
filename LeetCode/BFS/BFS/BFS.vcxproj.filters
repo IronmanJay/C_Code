@@ -60,5 +60,8 @@
     <ClCompile Include="p547_NumberOfProvinces.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p130_SurroundedRegions.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

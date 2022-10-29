@@ -126,6 +126,7 @@
     <ClCompile Include="p101_SymmetricTree.c" />
     <ClCompile Include="p107_BinaryTreeLevelOrderTraversalII.c" />
     <ClCompile Include="p117_PopulatingNextRightPointersInEachNodeII.c" />
+    <ClCompile Include="p130_SurroundedRegions.c" />
     <ClCompile Include="p199_BinaryTreeRightSideView.c" />
     <ClCompile Include="p429_NAryTreeLevelOrderTraversal.c" />
     <ClCompile Include="p513_FindBottomLeftTreeValue.c" />
