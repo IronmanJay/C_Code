@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="I0304_ImplementQueueUsingStacksIcci.c" />
+    <ClCompile Include="oII041_AverageValueOfSlidingWindow.c" />
     <ClCompile Include="p622_DesignCircularQueue.c" />
     <ClCompile Include="I1709_GetKthMagicNumberLcci.c" />
     <ClCompile Include="o10_I_FibonacciSequence.c" />
