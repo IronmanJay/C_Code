@@ -51,5 +51,8 @@
     <ClCompile Include="oII041_AverageValueOfSlidingWindow.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="oII042_NumberOfRecentRequests.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
