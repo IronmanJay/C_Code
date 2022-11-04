@@ -57,5 +57,8 @@
     <ClCompile Include="p1823_FindTheWinnerOfTheCircularGame.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p950_RevealCardsInIncreasingOrder.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

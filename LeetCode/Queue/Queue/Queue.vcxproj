@@ -128,6 +128,7 @@
     <ClCompile Include="p116_PopulatingNextRightPointersInEachNode.c" />
     <ClCompile Include="p641_DesignCircularDeque.c" />
     <ClCompile Include="p933_NumberOfRecentCalls.c" />
+    <ClCompile Include="p950_RevealCardsInIncreasingOrder.c" />
     <ClCompile Include="p993_CousinsInBinaryTree.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
