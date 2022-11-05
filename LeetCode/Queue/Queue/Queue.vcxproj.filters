@@ -60,5 +60,8 @@
     <ClCompile Include="p950_RevealCardsInIncreasingOrder.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p239_SlidingWindowMaximum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

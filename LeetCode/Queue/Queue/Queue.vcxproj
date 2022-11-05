@@ -119,6 +119,7 @@
     <ClCompile Include="oII041_AverageValueOfSlidingWindow.c" />
     <ClCompile Include="oII042_NumberOfRecentRequests.c" />
     <ClCompile Include="p1823_FindTheWinnerOfTheCircularGame.c" />
+    <ClCompile Include="p239_SlidingWindowMaximum.c" />
     <ClCompile Include="p622_DesignCircularQueue.c" />
     <ClCompile Include="I1709_GetKthMagicNumberLcci.c" />
     <ClCompile Include="o10_I_FibonacciSequence.c" />
