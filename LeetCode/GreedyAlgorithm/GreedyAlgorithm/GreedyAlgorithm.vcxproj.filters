@@ -45,5 +45,8 @@
     <ClCompile Include="p435_NonOverlappingIntervals.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p561_ArrayPartition.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
