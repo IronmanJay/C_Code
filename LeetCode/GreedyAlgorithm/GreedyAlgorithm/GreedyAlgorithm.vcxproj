@@ -126,6 +126,7 @@
     <ClCompile Include="p55_JumpGame.c" />
     <ClCompile Include="p561_ArrayPartition.c" />
     <ClCompile Include="p765_CouplesHoldingHands.c" />
+    <ClCompile Include="p860_LemonadeChange.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

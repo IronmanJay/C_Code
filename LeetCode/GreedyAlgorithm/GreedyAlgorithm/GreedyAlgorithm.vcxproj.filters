@@ -48,5 +48,8 @@
     <ClCompile Include="p561_ArrayPartition.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p860_LemonadeChange.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
