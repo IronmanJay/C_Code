@@ -51,5 +51,8 @@
     <ClCompile Include="p860_LemonadeChange.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1217_PlayingChips.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

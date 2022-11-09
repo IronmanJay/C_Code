@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p1217_PlayingChips.c" />
     <ClCompile Include="p435_NonOverlappingIntervals.c" />
     <ClCompile Include="p452_MinimumNumberOfArrowsToBurstBalloons.c" />
     <ClCompile Include="p455_AssignCookies.c" />
