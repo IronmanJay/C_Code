@@ -57,5 +57,8 @@
     <ClCompile Include="p646_MaximumLengthOfPairChain.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p714_BestTimeToBuyAndSellStockWithTransactionFee.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
