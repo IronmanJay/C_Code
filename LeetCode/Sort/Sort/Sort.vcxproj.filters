@@ -45,5 +45,8 @@
     <ClCompile Include="I1616_SubSortLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p905_SortArrayByParity.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

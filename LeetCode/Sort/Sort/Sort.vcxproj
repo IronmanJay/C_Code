@@ -122,6 +122,7 @@
     <ClCompile Include="p179_LargestNumber.c" />
     <ClCompile Include="p242_ValidAnagram.c" />
     <ClCompile Include="p75_SortColors.c" />
+    <ClCompile Include="p905_SortArrayByParity.c" />
     <ClCompile Include="p976_LargestPerimeterTriangle.c" />
     <ClCompile Include="p56_MergeIntervals.c" />
     <ClCompile Include="p922_SortArrayByParityII.c" />
