@@ -48,5 +48,8 @@
     <ClCompile Include="p905_SortArrayByParity.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1051_HeightChecker.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
