@@ -51,5 +51,8 @@
     <ClCompile Include="p1051_HeightChecker.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p414_ThirdMaximumNumber.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
