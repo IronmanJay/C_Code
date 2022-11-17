@@ -54,5 +54,8 @@
     <ClCompile Include="p414_ThirdMaximumNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p462_MinimumMovesToEqualArrayElementsII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
