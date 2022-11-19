@@ -60,5 +60,8 @@
     <ClCompile Include="p324_WiggleSortII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p899_OrderlyQueue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
