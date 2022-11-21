@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p121_TheBestTimeToBuyAndSellStocks.c" />
     <ClCompile Include="p11_ContainerWithMostWater.c" />
+    <ClCompile Include="p136_SingleNumber.c" />
     <ClCompile Include="p16_3SumClosest.c" />
     <ClCompile Include="p209_MinimumSizeSubarraySum.c" />
     <ClCompile Include="p268_MissingNumbers.c" />
