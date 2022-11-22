@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p118_PascalsTriangle.c" />
     <ClCompile Include="p121_TheBestTimeToBuyAndSellStocks.c" />
     <ClCompile Include="p11_ContainerWithMostWater.c" />
     <ClCompile Include="p136_SingleNumber.c" />

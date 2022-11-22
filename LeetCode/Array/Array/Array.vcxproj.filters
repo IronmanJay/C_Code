@@ -66,5 +66,8 @@
     <ClCompile Include="p136_SingleNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p118_PascalsTriangle.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
