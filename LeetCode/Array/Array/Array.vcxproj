@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p118_PascalsTriangle.c" />
+    <ClCompile Include="p119_PascalsTriangleII.c" />
     <ClCompile Include="p121_TheBestTimeToBuyAndSellStocks.c" />
     <ClCompile Include="p11_ContainerWithMostWater.c" />
     <ClCompile Include="p136_SingleNumber.c" />
