@@ -72,5 +72,8 @@
     <ClCompile Include="p119_PascalsTriangleII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p78_Subsets.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

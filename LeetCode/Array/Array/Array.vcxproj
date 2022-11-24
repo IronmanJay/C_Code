@@ -131,6 +131,7 @@
     <ClCompile Include="p4_MedianOfTwoSortedArrays.c" />
     <ClCompile Include="p66_PlusOne.c" />
     <ClCompile Include="p73_SetMatrixZeroes.c" />
+    <ClCompile Include="p78_Subsets.c" />
     <ClCompile Include="p867_TransposeMatrix.c" />
     <ClCompile Include="p88_MergeSortedArray.c" />
     <ClCompile Include="p977_SquaresOfASortedArray.c" />
