@@ -75,5 +75,8 @@
     <ClCompile Include="p78_Subsets.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p90_SubsetsII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
