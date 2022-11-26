@@ -127,6 +127,7 @@
     <ClCompile Include="p27_RemoveElement.c" />
     <ClCompile Include="p287_FindTheDuplicateNumber.c" />
     <ClCompile Include="p35_SearchCaretPosition.c" />
+    <ClCompile Include="p37_SudokuSolver.c" />
     <ClCompile Include="p48_RotateTheImage.c" />
     <ClCompile Include="p4_MedianOfTwoSortedArrays.c" />
     <ClCompile Include="p66_PlusOne.c" />

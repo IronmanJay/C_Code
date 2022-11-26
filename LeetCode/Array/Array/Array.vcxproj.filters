@@ -78,5 +78,8 @@
     <ClCompile Include="p90_SubsetsII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p37_SudokuSolver.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
