@@ -63,5 +63,8 @@
     <ClCompile Include="p32_LongestValidParentheses.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p557_ReverseWordsInAStringIII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

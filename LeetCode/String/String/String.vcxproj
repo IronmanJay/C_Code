@@ -127,6 +127,7 @@
     <ClCompile Include="p409_LongestPalindrome.c" />
     <ClCompile Include="p520_DetectCapital.c" />
     <ClCompile Include="p521_LongestUncommonSubsequenceI.c" />
+    <ClCompile Include="p557_ReverseWordsInAStringIII.c" />
     <ClCompile Include="p58_LengthOfLastWord.c" />
     <ClCompile Include="p647_PalindromicSubstrings.c" />
     <ClCompile Include="p67_AddBinary.c" />
