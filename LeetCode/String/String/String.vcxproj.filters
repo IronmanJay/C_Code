@@ -66,5 +66,8 @@
     <ClCompile Include="p557_ReverseWordsInAStringIII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p771_JewelsAndStones.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
