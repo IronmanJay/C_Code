@@ -120,6 +120,7 @@
     <ClCompile Include="p115_DistinctSubsequences.c" />
     <ClCompile Include="p139_WordBreak.c" />
     <ClCompile Include="p151_ReverseWordsInAString.c" />
+    <ClCompile Include="p171_ExcelSheetColumnNumber.c" />
     <ClCompile Include="p28_ImplementStrstr.c" />
     <ClCompile Include="p32_LongestValidParentheses.c" />
     <ClCompile Include="p392_JudgeSubsequence.c" />
