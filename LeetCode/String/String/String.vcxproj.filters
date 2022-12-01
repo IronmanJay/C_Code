@@ -72,5 +72,8 @@
     <ClCompile Include="p171_ExcelSheetColumnNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p6_ZigzagConversion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
