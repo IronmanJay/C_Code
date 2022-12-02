@@ -123,6 +123,7 @@
     <ClCompile Include="p171_ExcelSheetColumnNumber.c" />
     <ClCompile Include="p28_ImplementStrstr.c" />
     <ClCompile Include="p32_LongestValidParentheses.c" />
+    <ClCompile Include="p38_CountAndSay.c" />
     <ClCompile Include="p392_JudgeSubsequence.c" />
     <ClCompile Include="p3_LongestSubstringWithoutRepeatingCharacters.c" />
     <ClCompile Include="p409_LongestPalindrome.c" />
