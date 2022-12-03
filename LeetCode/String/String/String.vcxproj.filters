@@ -78,5 +78,8 @@
     <ClCompile Include="p38_CountAndSay.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p72_EditDistance.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

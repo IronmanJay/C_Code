@@ -134,6 +134,7 @@
     <ClCompile Include="p647_PalindromicSubstrings.c" />
     <ClCompile Include="p67_AddBinary.c" />
     <ClCompile Include="p6_ZigzagConversion.c" />
+    <ClCompile Include="p72_EditDistance.c" />
     <ClCompile Include="p771_JewelsAndStones.c" />
     <ClCompile Include="p93_RestoreIpAddresses.c" />
   </ItemGroup>
