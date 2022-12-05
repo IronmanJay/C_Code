@@ -63,5 +63,8 @@
     <ClCompile Include="p2_AddTwoNumbers.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p141_LinkedListCycle.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
