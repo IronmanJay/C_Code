@@ -131,6 +131,7 @@
     <ClCompile Include="p2_AddTwoNumbers.c" />
     <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c" />
     <ClCompile Include="p86_PartitionList.c" />
+    <ClCompile Include="p876_MiddleOfTheLinkedList.c" />
     <ClCompile Include="p92_ReverseLinkedListII.c" />
     <ClCompile Include="p203_RemoveLinkedListElements.c" />
   </ItemGroup>

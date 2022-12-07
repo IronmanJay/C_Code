@@ -69,5 +69,8 @@
     <ClCompile Include="p1290_ConvertBinaryNumberInALinkedListToInteger.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p876_MiddleOfTheLinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
