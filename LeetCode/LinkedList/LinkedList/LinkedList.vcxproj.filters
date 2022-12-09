@@ -72,5 +72,11 @@
     <ClCompile Include="p876_MiddleOfTheLinkedList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p142_LinkedListCycleII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p237_DeleteNodeInALinkedList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

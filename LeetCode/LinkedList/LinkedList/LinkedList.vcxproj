@@ -120,6 +120,7 @@
     <ClCompile Include="I0206_PalindromeLinkedListLcci.c" />
     <ClCompile Include="p1290_ConvertBinaryNumberInALinkedListToInteger.c" />
     <ClCompile Include="p141_LinkedListCycle.c" />
+    <ClCompile Include="p142_LinkedListCycleII.c" />
     <ClCompile Include="p147_InsertionSortList.c" />
     <ClCompile Include="p148_SortList.c" />
     <ClCompile Include="p160_IntersectingLinkedLists.c" />
@@ -127,6 +128,7 @@
     <ClCompile Include="p206_ReverseLinkedList.c" />
     <ClCompile Include="p21_MergeTwoSortedLists.c" />
     <ClCompile Include="p234_PalindromicLinkedList.c" />
+    <ClCompile Include="p237_DeleteNodeInALinkedList.c" />
     <ClCompile Include="p25_ReverseNodesInKGroup.c" />
     <ClCompile Include="p2_AddTwoNumbers.c" />
     <ClCompile Include="p83_RemoveDuplicatesFromSortedList.c" />
