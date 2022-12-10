@@ -78,5 +78,8 @@
     <ClCompile Include="p237_DeleteNodeInALinkedList.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p23_MergeKSortedLists.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
