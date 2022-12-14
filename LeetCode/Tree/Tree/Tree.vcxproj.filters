@@ -63,5 +63,8 @@
     <ClCompile Include="p530_MinimumAbsoluteDifferenceInBst.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p572_SubtreeOfAnotherTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
