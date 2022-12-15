@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p103_ZigzagOrderTraversalOfBinaryTrees.c" />
     <ClCompile Include="p230_TheKthSmallestElementInABinarySearchTree.c" />
+    <ClCompile Include="p235_LowestCommonAncestorOfABinarySearchTree.c" />
     <ClCompile Include="p257_BinaryTreePaths.c" />
     <ClCompile Include="o55_I_DepthOfBinaryTree.c" />
     <ClCompile Include="p110_BalancedBinaryTree.c" />

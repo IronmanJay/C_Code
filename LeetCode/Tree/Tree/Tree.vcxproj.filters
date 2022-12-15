@@ -66,5 +66,8 @@
     <ClCompile Include="p572_SubtreeOfAnotherTree.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p235_LowestCommonAncestorOfABinarySearchTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
