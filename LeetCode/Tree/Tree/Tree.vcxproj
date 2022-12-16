@@ -124,6 +124,7 @@
     <ClCompile Include="p112_PathSum.c" />
     <ClCompile Include="p113_PathSumII.c" />
     <ClCompile Include="p129_SumRootToLeafNumbers.c" />
+    <ClCompile Include="p337_HouseRobberIII.c" />
     <ClCompile Include="p404_SumOfLeftLeaves.c" />
     <ClCompile Include="p530_MinimumAbsoluteDifferenceInBst.c" />
     <ClCompile Include="p543_DiameterOfBinaryTree.c" />
