@@ -72,5 +72,8 @@
     <ClCompile Include="p337_HouseRobberIII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p968_BinaryTreeCameras.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

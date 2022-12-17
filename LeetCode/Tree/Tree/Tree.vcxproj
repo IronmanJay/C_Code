@@ -133,6 +133,7 @@
     <ClCompile Include="p654_MaximumBinaryTree.c" />
     <ClCompile Include="p872_TreesWithSimilarLeaves.c" />
     <ClCompile Include="p94_BinaryTreeInorderTraversal.c" />
+    <ClCompile Include="p968_BinaryTreeCameras.cpp" />
     <ClCompile Include="p96_UniqueBinarySearchTrees.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
