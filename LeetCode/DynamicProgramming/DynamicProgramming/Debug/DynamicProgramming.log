@@ -1,2 +1,18 @@
-﻿  p448_FindAllNumbersDisappearedInAnArray.c
+﻿  I1716_TheMasseuseLcci.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\i1716_themasseuselcci.c(4): warning C4005: “max”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  p213_RobberyII.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p213_robberyii.c(4): warning C4005: “max”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  p221_MaximalSquare.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p221_maximalsquare.c(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  p338_CountingBits.c
+  p42_TrappingRainWater.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p42_trappingrainwater.c(4): warning C4005: “max”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p42_trappingrainwater.c(5): warning C4005: “min”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1290): note: 参见“min”的前一个定义
+  p45_JumpGameII.c
+  正在生成代码...
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
