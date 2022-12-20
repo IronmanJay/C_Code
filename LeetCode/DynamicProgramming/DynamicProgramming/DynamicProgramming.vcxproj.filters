@@ -66,5 +66,8 @@
     <ClCompile Include="p338_CountingBits.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="o42_MaximumSumOfContinuousSubarrays.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
