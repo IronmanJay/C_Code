@@ -69,5 +69,8 @@
     <ClCompile Include="o42_MaximumSumOfContinuousSubarrays.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I0801_ThreeStepsProblemLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

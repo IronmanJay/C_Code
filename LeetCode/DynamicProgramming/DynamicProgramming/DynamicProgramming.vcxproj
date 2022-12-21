@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I0801_ThreeStepsProblemLcci.c" />
     <ClCompile Include="I1617_ContiguousSequenceLcci.c" />
     <ClCompile Include="I1716_TheMasseuseLcci.c" />
     <ClCompile Include="o42_MaximumSumOfContinuousSubarrays.c" />
