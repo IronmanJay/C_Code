@@ -123,6 +123,7 @@
     <ClCompile Include="p198_HouseRobber.c" />
     <ClCompile Include="p213_RobberyII.c" />
     <ClCompile Include="p221_MaximalSquare.c" />
+    <ClCompile Include="p264_UglyNumberII.c" />
     <ClCompile Include="p279_PerfectSquares.c" />
     <ClCompile Include="p300_LongestIncreasingSubsequence.c" />
     <ClCompile Include="p338_CountingBits.c" />

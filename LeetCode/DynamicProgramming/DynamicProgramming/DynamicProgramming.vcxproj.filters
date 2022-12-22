@@ -72,5 +72,8 @@
     <ClCompile Include="I0801_ThreeStepsProblemLcci.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p264_UglyNumberII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
