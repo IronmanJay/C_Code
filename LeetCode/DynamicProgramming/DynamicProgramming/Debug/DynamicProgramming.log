@@ -1,3 +1,4 @@
-﻿  p264_UglyNumberII.c
-d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p264_uglynumberii.c(13): warning C4013: “fmin”未定义；假设外部返回 int
+﻿  p152_MaximumProductSubarray.c
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p152_maximumproductsubarray.c(17): warning C4013: “fmax”未定义；假设外部返回 int
+d:\software\c_code\leetcode\dynamicprogramming\dynamicprogramming\p152_maximumproductsubarray.c(18): warning C4013: “fmin”未定义；假设外部返回 int
   DynamicProgramming.vcxproj -> D:\Software\C_Code\LeetCode\DynamicProgramming\Debug\DynamicProgramming.exe
