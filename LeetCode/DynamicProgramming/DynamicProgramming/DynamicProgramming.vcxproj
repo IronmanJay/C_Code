@@ -120,6 +120,7 @@
     <ClCompile Include="I1716_TheMasseuseLcci.c" />
     <ClCompile Include="o42_MaximumSumOfContinuousSubarrays.c" />
     <ClCompile Include="p120_Triangle.c" />
+    <ClCompile Include="p123_BestTimeToBuyAndSellStockIII.c" />
     <ClCompile Include="p152_MaximumProductSubarray.c" />
     <ClCompile Include="p198_HouseRobber.c" />
     <ClCompile Include="p213_RobberyII.c" />
