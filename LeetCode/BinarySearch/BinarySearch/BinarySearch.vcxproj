@@ -130,6 +130,7 @@
     <ClCompile Include="p540_SingleElementInSortedArray.c" />
     <ClCompile Include="p69_SquareRootOfX.c" />
     <ClCompile Include="p704_BinarySearch.c" />
+    <ClCompile Include="p744_FindSmallestLetterGreaterThanTarget.c" />
     <ClCompile Include="p74_SearchA2dMatrix.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
