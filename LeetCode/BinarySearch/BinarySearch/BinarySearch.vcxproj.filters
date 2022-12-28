@@ -66,5 +66,8 @@
     <ClCompile Include="p744_FindSmallestLetterGreaterThanTarget.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1539_KthMissingPositiveNumber.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
