@@ -69,5 +69,8 @@
     <ClCompile Include="p1539_KthMissingPositiveNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p275_HIndexII.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

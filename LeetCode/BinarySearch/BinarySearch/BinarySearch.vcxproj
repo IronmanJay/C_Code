@@ -123,6 +123,7 @@
     <ClCompile Include="p153_FindTheMinimumValueInARotatedSortedArray.c" />
     <ClCompile Include="p162_FindPeakElement.c" />
     <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c" />
+    <ClCompile Include="p275_HIndexII.c" />
     <ClCompile Include="p33_SearchInRotatedSortedArray.c" />
     <ClCompile Include="p34_FindTheFirstAndLastPositionOfAnElementInASortedArray.c" />
     <ClCompile Include="p350_IntersectionOfTwoArraysII.c" />
