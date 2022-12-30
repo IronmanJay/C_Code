@@ -130,6 +130,7 @@
     <ClCompile Include="p367_ValidPerfectSquare.c" />
     <ClCompile Include="p374_GuessTheSizeOfTheNumber.c" />
     <ClCompile Include="p540_SingleElementInSortedArray.c" />
+    <ClCompile Include="p611_ValidTriangleNumber.c" />
     <ClCompile Include="p69_SquareRootOfX.c" />
     <ClCompile Include="p704_BinarySearch.c" />
     <ClCompile Include="p744_FindSmallestLetterGreaterThanTarget.c" />
