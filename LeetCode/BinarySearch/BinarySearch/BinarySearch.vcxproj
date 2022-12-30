@@ -121,6 +121,7 @@
     <ClCompile Include="p1095_FindInMountainArray.c" />
     <ClCompile Include="p1539_KthMissingPositiveNumber.c" />
     <ClCompile Include="p153_FindTheMinimumValueInARotatedSortedArray.c" />
+    <ClCompile Include="p154_FindMinimumInRotatedSortedArrayII .c" />
     <ClCompile Include="p162_FindPeakElement.c" />
     <ClCompile Include="p167_TwoSumIIInputArrayIsSorted.c" />
     <ClCompile Include="p275_HIndexII.c" />

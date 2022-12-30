@@ -75,5 +75,8 @@
     <ClCompile Include="p611_ValidTriangleNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p154_FindMinimumInRotatedSortedArrayII .c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
