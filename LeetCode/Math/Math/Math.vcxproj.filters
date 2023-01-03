@@ -18,5 +18,8 @@
     <ClCompile Include="p263_UglyNumber.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p507_PerfectNumber.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
