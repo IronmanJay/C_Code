@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="p258_AddDigits.c" />
     <ClCompile Include="p263_UglyNumber.c" />
     <ClCompile Include="p507_PerfectNumber.c" />
   </ItemGroup>
