@@ -24,5 +24,8 @@
     <ClCompile Include="p258_AddDigits.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p50_PowXN.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

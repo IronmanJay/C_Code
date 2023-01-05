@@ -126,6 +126,7 @@
     <ClCompile Include="p258_AddDigits.c" />
     <ClCompile Include="p263_UglyNumber.c" />
     <ClCompile Include="p507_PerfectNumber.c" />
+    <ClCompile Include="p50_PowXN.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
