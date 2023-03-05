@@ -129,6 +129,7 @@
     <ClCompile Include="p561_ArrayPartition.c" />
     <ClCompile Include="p605_CanPlaceFlowers.c" />
     <ClCompile Include="p646_MaximumLengthOfPairChain.c" />
+    <ClCompile Include="p680_ValidPalindromeII.c" />
     <ClCompile Include="p714_BestTimeToBuyAndSellStockWithTransactionFee.c" />
     <ClCompile Include="p765_CouplesHoldingHands.c" />
     <ClCompile Include="p860_LemonadeChange.c" />
