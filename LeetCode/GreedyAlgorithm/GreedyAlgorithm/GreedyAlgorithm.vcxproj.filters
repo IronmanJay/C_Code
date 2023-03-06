@@ -69,5 +69,8 @@
     <ClCompile Include="p680_ValidPalindromeII.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1323_Maximum69Number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
