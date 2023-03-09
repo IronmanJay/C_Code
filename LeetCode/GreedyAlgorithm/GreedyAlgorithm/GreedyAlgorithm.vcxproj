@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="p1217_PlayingChips.c" />
     <ClCompile Include="p1323_Maximum69Number.c" />
+    <ClCompile Include="p135_Candy.c" />
     <ClCompile Include="p334_IncreasingTripletSubsequence.c" />
     <ClCompile Include="p376_WiggleSubsequence.c" />
     <ClCompile Include="p410_SplitArrayLargestSum.c" />
