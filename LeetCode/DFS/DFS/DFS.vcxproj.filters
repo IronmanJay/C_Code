@@ -66,5 +66,8 @@
     <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
