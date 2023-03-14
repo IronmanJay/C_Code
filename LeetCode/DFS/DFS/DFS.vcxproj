@@ -132,6 +132,7 @@
     <ClCompile Include="p563_BinaryTreeTilt.c" />
     <ClCompile Include="p617_MergeTwoBinaryTrees.c" />
     <ClCompile Include="p671_SecondMinimumNodeInABinaryTree.c" />
+    <ClCompile Include="p695_MaxAreaOfIsland.c" />
     <ClCompile Include="p783_MinimumDistanceBetweenBstNodes.c" />
     <ClCompile Include="p98_ValidateBinarySearchTree.c" />
     <ClCompile Include="p99_RecoverBinarySearchTree.c" />

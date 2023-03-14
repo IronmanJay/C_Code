@@ -75,5 +75,8 @@
     <ClCompile Include="p419_BattleshipsInABoard.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p695_MaxAreaOfIsland.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
