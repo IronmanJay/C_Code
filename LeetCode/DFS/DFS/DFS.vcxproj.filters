@@ -78,5 +78,8 @@
     <ClCompile Include="p695_MaxAreaOfIsland.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p329_LongestIncreasingPathInAMatrix.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

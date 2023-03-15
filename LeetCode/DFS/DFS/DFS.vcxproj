@@ -125,6 +125,7 @@
     <ClCompile Include="p124_BinaryTreeMaximumPathSum.c" />
     <ClCompile Include="p226_InvertBinaryTree.c" />
     <ClCompile Include="p236_LowestCommonAncestorOfABinaryTree.c" />
+    <ClCompile Include="p329_LongestIncreasingPathInAMatrix.c" />
     <ClCompile Include="p419_BattleshipsInABoard.c" />
     <ClCompile Include="p463_IslandPerimeter.c" />
     <ClCompile Include="p515_FindLargestValueInEachTreeRow.c" />
