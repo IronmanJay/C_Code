@@ -33,5 +33,8 @@
     <ClCompile Include="p1147_LongestChunkedPalindromeDecomposition.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p283_MoveZeroes.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

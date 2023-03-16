@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="p1147_LongestChunkedPalindromeDecomposition.c" />
     <ClCompile Include="p143_ReorderList.c" />
+    <ClCompile Include="p283_MoveZeroes.c" />
     <ClCompile Include="p344_ReverseString.c" />
     <ClCompile Include="p345_ReverseVowelsOfAString.c" />
     <ClCompile Include="p541_ReverseStringII.c" />
