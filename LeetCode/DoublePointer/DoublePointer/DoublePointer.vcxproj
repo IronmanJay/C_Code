@@ -126,6 +126,7 @@
     <ClCompile Include="p1089_DuplicateZeros.c" />
     <ClCompile Include="p1147_LongestChunkedPalindromeDecomposition.c" />
     <ClCompile Include="p143_ReorderList.c" />
+    <ClCompile Include="p2540_MinimumCommonValue.c" />
     <ClCompile Include="p283_MoveZeroes.c" />
     <ClCompile Include="p344_ReverseString.c" />
     <ClCompile Include="p345_ReverseVowelsOfAString.c" />
