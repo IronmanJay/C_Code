@@ -12,14 +12,14 @@ int compareVersion(char * version1, char * version2)
 		long x = 0;
 		while (index1 < len1 && version1[index1] != '.')
 		{
-			x += x * 10 + version1[index1] - '0';
+			x = x * 10 + version1[index1] - '0';
 			index1++;
 		}
 		index1++;
 		long y = 0;
 		while (index2 < len2 && version2[index2] != '.')
 		{
-			y += y * 10 + version2[index2] - '0';
+			y = y * 10 + version2[index2] - '0';
 			index2++;
 		}
 		index2++;
