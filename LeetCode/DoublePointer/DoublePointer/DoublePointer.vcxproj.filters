@@ -45,5 +45,8 @@
     <ClCompile Include="p165_CompareVersionNumbers.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p475_Heaters.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

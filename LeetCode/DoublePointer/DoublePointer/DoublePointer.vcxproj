@@ -131,6 +131,7 @@
     <ClCompile Include="p283_MoveZeroes.c" />
     <ClCompile Include="p344_ReverseString.c" />
     <ClCompile Include="p345_ReverseVowelsOfAString.c" />
+    <ClCompile Include="p475_Heaters.c" />
     <ClCompile Include="p541_ReverseStringII.c" />
     <ClCompile Include="p80_RemoveDuplicatesFromSortedArrayII.c" />
   </ItemGroup>
