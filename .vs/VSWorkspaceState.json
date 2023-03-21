@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeetCode",
+    "\\LeetCode\\DoublePointer"
   ],
+  "SelectedNode": "\\LeetCode\\DoublePointer\\DoublePointer.sln",
   "PreviewInSolutionExplorer": false
 }

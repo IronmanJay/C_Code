@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="I1721_VolumeOfHistogramLcci.c" />
     <ClCompile Include="p1089_DuplicateZeros.c" />
     <ClCompile Include="p1147_LongestChunkedPalindromeDecomposition.c" />
     <ClCompile Include="p143_ReorderList.c" />

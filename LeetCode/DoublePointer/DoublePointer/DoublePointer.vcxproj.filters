@@ -48,5 +48,8 @@
     <ClCompile Include="p475_Heaters.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="I1721_VolumeOfHistogramLcci.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
