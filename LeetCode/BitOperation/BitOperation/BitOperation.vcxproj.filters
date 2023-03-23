@@ -18,5 +18,8 @@
     <ClCompile Include="p231_PowerOfTwo.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p191_NumberOf1Bits.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
