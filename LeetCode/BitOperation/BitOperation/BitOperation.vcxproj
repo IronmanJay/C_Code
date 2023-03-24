@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="p191_NumberOf1Bits.c" />
     <ClCompile Include="p231_PowerOfTwo.c" />
+    <ClCompile Include="p405_ConvertANumberToHexadecimal.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
