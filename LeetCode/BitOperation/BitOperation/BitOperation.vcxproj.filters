@@ -24,5 +24,8 @@
     <ClCompile Include="p405_ConvertANumberToHexadecimal.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p201_BitwiseAndOfNumbersRange.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
