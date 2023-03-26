@@ -27,5 +27,8 @@
     <ClCompile Include="p201_BitwiseAndOfNumbersRange.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p371_SumOfTwoIntegers.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
