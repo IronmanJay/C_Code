@@ -18,5 +18,8 @@
     <ClCompile Include="p643_MaximumAverageSubarrayI.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
