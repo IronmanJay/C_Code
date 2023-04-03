@@ -21,5 +21,8 @@
     <ClCompile Include="p1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p2379_MinimumRecolorsToGetKConsecutiveBlackBlocks.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

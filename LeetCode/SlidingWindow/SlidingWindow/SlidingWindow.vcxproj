@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.c" />
+    <ClCompile Include="p2379_MinimumRecolorsToGetKConsecutiveBlackBlocks.c" />
     <ClCompile Include="p643_MaximumAverageSubarrayI.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
