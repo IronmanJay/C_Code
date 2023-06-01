@@ -27,5 +27,8 @@
     <ClCompile Include="p1493_LongestSubarrayOf1sAfterDeletingOneElement.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1248_CountNumberOfNiceSubarrays.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
