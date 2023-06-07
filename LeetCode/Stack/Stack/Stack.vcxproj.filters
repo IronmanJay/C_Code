@@ -63,5 +63,8 @@
     <ClCompile Include="p402_RemoveKDigits.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1475_FinalPricesWithASpecialDiscountInAShop.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

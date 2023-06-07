@@ -120,6 +120,7 @@
     <ClCompile Include="p1047_RemoveAllAdjacentDuplicatesInString.c" />
     <ClCompile Include="p144_BinaryTreePreorderTraversal.c" />
     <ClCompile Include="p145_BinaryTreePostorderTraversal.c" />
+    <ClCompile Include="p1475_FinalPricesWithASpecialDiscountInAShop.c" />
     <ClCompile Include="p150_EvaluateReversePolishNotation.c" />
     <ClCompile Include="p173_BinarySearchTreeIterator.c" />
     <ClCompile Include="p20_ValidParentheses.c" />
